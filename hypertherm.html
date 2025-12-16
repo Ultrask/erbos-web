@@ -1,0 +1,557 @@
+﻿<!DOCTYPE html>
+<html lang="sk">
+<head>
+            <!-- Structured Data: Organization & Website -->
+            <script type="application/ld+json">
+            {
+                "@context": "https://schema.org",
+                "@type": "Organization",
+                "name": "ERBOS s.r.o.",
+                "url": "https://www.erbos.sk",
+                "logo": "https://www.erbos.sk/images/logo.avif",
+                "address": {
+                    "@type": "PostalAddress",
+                    "streetAddress": "Francúzskych Partizánov 2199/43B",
+                    "addressLocality": "Vrútky",
+                    "addressCountry": "Slovensko"
+                },
+                "contactPoint": [{
+                    "@type": "ContactPoint",
+                    "telephone": "+421 944 093 833",
+                    "contactType": "customer service",
+                    "email": "obchod@erbos.sk"
+                }],
+                "sameAs": [
+                    "https://www.facebook.com/erbos.sk"
+                ]
+            }
+            </script>
+            <script type="application/ld+json">
+            {
+                "@context": "https://schema.org",
+                "@type": "WebSite",
+                "url": "https://www.erbos.sk",
+                "potentialAction": {
+                    "@type": "SearchAction",
+                    "target": "https://www.erbos.sk/?s={search_term_string}",
+                    "query-input": "required name=search_term_string"
+                }
+            }
+            </script>
+            <link rel="sitemap" type="application/xml" title="Sitemap" href="/sitemap.xml" />
+            <link rel="robots" href="/robots.txt" />
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hypertherm - Plazmové zdroje | ERBOS</title>
+    <link rel="icon" type="image/x-icon" href="images/logo.avif">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', sans-serif;
+        }
+        
+        .gradient-bg {
+            background: linear-gradient(135deg, #f97316 0%, #ea580c 100%);
+        }
+        
+        .nav-sticky {
+            position: sticky;
+            top: 0;
+            z-index: 40;
+            background: rgba(255, 255, 255, 0.95);
+            backdrop-filter: blur(12px);
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        }
+        
+        .mobile-menu {
+            display: none;
+        }
+        
+        .mobile-menu.active {
+            display: block;
+        }
+        
+        .spec-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 2rem 0;
+            background: white;
+            border-radius: 12px;
+            overflow: hidden;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+        }
+        
+        .spec-table thead {
+            background: linear-gradient(135deg, #f97316 0%, #ea580c 100%);
+            color: white;
+        }
+        
+        .spec-table th,
+        .spec-table td {
+            border: 1px solid #e2e8f0;
+            padding: 1rem;
+            text-align: left;
+        }
+        
+        .spec-table th {
+            font-weight: 600;
+            text-align: center;
+        }
+        
+        .spec-table tbody tr:hover {
+            background-color: #f8fafc;
+        }
+        
+        .spec-table td:first-child {
+            font-weight: 600;
+            color: #334155;
+        }
+
+        .feature-card {
+            transition: transform 0.3s ease;
+        }
+
+        .feature-card:hover {
+            transform: translateY(-5px);
+        }
+    </style>
+    <link rel="stylesheet" href="/reveal.css">
+</head>
+<body class="bg-slate-50">
+    <!-- Top Bar -->
+    <div class="bg-slate-900 text-white py-2">
+        <div class="container mx-auto px-6 flex justify-between items-center text-sm">
+            <div class="flex items-center gap-6">
+                <a href="tel:+421944093833" class="flex items-center gap-2 hover:text-orange-400 transition-colors">
+                    <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z"/>
+                    </svg>
+                    +421 944 093 833
+                </a>
+                <a href="mailto:obchod@erbos.sk" class="flex items-center gap-2 hover:text-orange-400 transition-colors">
+                    <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"/>
+                    </svg>
+                    obchod@erbos.sk
+                </a>
+                        </div>
+        </div>
+    </div>
+
+    <!-- Navigation -->
+    <nav id="navbar" class="bg-white transition-all duration-300">
+        <div class="container mx-auto px-6">
+            <div class="flex items-center justify-between h-20">
+                <!-- Logo -->
+                <a href="#home" class="flex items-center gap-3">
+                    <img src="images/logo.avif" alt="Erbos Logo" class="h-12 w-12 object-contain">
+                    <div>
+                        <span class="text-2xl font-bold text-slate-900">ERBOS</span>
+                        <p class="text-xs text-slate-600">Laserové technológie</p>
+                    </div>
+                </a>
+
+                <!-- Desktop Navigation -->
+                <div class="hidden lg:flex items-center gap-8 desktop-only">                    <a href="index.html" class="text-orange-600 font-bold">Domov</a>
+                    <a href="onas.html" class="text-slate-700 hover:text-orange-600 font-medium transition-colors">O nás</a>
+                    <a href="sluzby.html" class="text-slate-700 hover:text-orange-600 font-medium transition-colors">Služby</a>
+                    <div class="relative group">
+                        <button class="flex items-center gap-1 text-slate-700 hover:text-orange-600 font-medium transition-colors">
+                            Produkty
+                            <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/></svg>
+                        </button>
+                        <div class="absolute left-0 mt-2 w-64 bg-white rounded-lg shadow-xl opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-300 max-h-96 overflow-y-auto z-50">
+                            <a href="laserove-zvaranie.html" class="block px-4 py-2 hover:bg-slate-50 transition">Laserové zváranie</a>
+                            <a href="laserove-cistenie.html" class="block px-4 py-2 hover:bg-slate-50 transition">Laserové čistenie</a>
+                            <a href="laserove-pracoviska.html" class="block px-4 py-2 hover:bg-slate-50 transition">Laserové pracoviská</a>
+                            <a href="fiber-lasery.html" class="block px-4 py-2 hover:bg-slate-50 transition">Laserové rezanie</a>
+                            <a href="laserove-znacenie.html" class="block px-4 py-2 hover:bg-slate-50 transition">Laserové značenie</a>
+                            <div class="border-t my-2"></div>
+                            <a href="3d-rezanie.html" class="block px-4 py-2 hover:bg-slate-50 transition">3D rezanie</a>
+                            <a href="paliace-stroje.html" class="block px-4 py-2 hover:bg-slate-50 transition">Páliace stroje</a>
+                            <a href="thermal-dynamics.html" class="block px-4 py-2 hover:bg-slate-50 transition">Thermal Dynamics</a>
+                            <a href="kjellberg.html" class="block px-4 py-2 hover:bg-slate-50 transition">Kjellberg</a>
+                            <a href="hypertherm.html" class="block px-4 py-2 hover:bg-slate-50 transition">Hypertherm</a>
+                            <a href="alfain.html" class="block px-4 py-2 hover:bg-slate-50 transition">Alfain</a>
+                            <div class="border-t my-2"></div>
+                            <a href="odsavacie-stoly.html" class="block px-4 py-2 hover:bg-slate-50 transition">Odsávacie stoly a Filtrácie</a>
+                            <a href="spotrebne-diely.html" class="block px-4 py-2 hover:bg-slate-50 transition">Spotrebné diely</a>
+                        </div>
+                    </div>
+                    <a href="downloads.html" class="text-slate-700 hover:text-orange-600 font-medium transition-colors">Na stiahnutie</a>
+                    <a href="kontakt.html" class="text-slate-700 hover:text-orange-600 font-medium transition-colors">Kontakt</a></div>
+
+                <!-- CTA Button -->
+                <div class="hidden lg:block desktop-only">
+                    <a href="kontakt.html" class="inline-block px-6 py-3 gradient-bg text-white font-semibold rounded-lg shadow-lg shadow-orange-500/30 hover:shadow-orange-500/50 transition-all">
+                        Získať ponuku
+                    </a>
+                </div>
+
+                <!-- Mobile Menu Button -->
+                <button id="mobile-menu-btn" class="lg:hidden p-2 rounded-lg hover:bg-slate-100 transition-colors">
+                    <svg id="menu-icon" class="w-6 h-6 text-slate-700" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"/>
+                    </svg>
+                    <svg id="close-icon" class="w-6 h-6 text-slate-700 hidden" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"/>
+                    </svg>
+                </button>
+            </div>
+        </div>
+
+        <!-- Mobile Menu -->
+        <div id="mobile-menu" class="mobile-menu lg:hidden">
+            <div class="container mx-auto px-6 py-4 space-y-4">
+                <a href="index.html" class="block py-2 text-orange-600 font-bold">Domov</a>
+                <a href="onas.html" class="block py-2 text-slate-700 hover:text-orange-600 font-medium">O nás</a>
+                <a href="sluzby.html" class="block py-2 text-slate-700 hover:text-orange-600 font-medium">Služby</a>
+                <a href="downloads.html" class="block py-2 text-slate-700 hover:text-orange-600 font-medium">Na stiahnutie</a>
+                <a href="kontakt.html" class="block py-2 text-slate-700 hover:text-orange-600 font-medium">Kontakt</a>
+                <div class="border-t pt-4">
+                    <div class="text-xs text-slate-500 font-semibold mb-2 uppercase">Produkty</div>
+                    <a href="laserove-zvaranie.html" class="block py-2 pl-4 text-slate-700 hover:text-orange-600">Laserové Zváranie</a>
+                    <a href="#" class="block py-2 pl-4 text-slate-700 hover:text-orange-600">Laserové čistenie</a>
+                    <a href="laserove-pracoviska.html" class="block py-2 pl-4 text-slate-700 hover:text-orange-600">Laserové Pracoviská</a>
+                    <a href="3d-rezanie.html" class="block py-2 pl-4 text-slate-700 hover:text-orange-600">Laserové Rezanie</a>
+                    <a href="laserove-znacenie.html" class="block py-2 pl-4 text-slate-700 hover:text-orange-600">Laserové Značenie</a>
+                    <a href="fiber-lasery.html" class="block py-2 pl-4 text-slate-700 hover:text-orange-600">Fiber Lasery</a>
+                    <a href="paliace-stroje.html" class="block py-2 pl-4 text-slate-700 hover:text-orange-600">Páliace Stroje</a>
+                    <a href="thermal-dynamics.html" class="block py-2 pl-4 text-slate-700 hover:text-orange-600">Thermal Dynamics</a>
+                    <a href="kjellberg.html" class="block py-2 pl-4 text-slate-700 hover:text-orange-600">Kjellberg</a>
+                    <a href="hypertherm.html" class="block py-2 pl-4 text-slate-700 hover:text-orange-600">Hypertherm</a>
+                    <a href="alfain.html" class="block py-2 pl-4 text-slate-700 hover:text-orange-600">Alfain</a>
+                    <a href="odsavacie-stoly.html" class="block py-2 pl-4 text-slate-700 hover:text-orange-600">Odsávacie Stoly a Filtrácie/a>
+                    <a href="spotrebne-diely.html" class="block py-2 pl-4 text-slate-700 hover:text-orange-600">Spotrebné diely</a>
+                </div>
+                <a href="#kontakt" class="block w-full text-center px-6 py-3 gradient-bg text-white font-semibold rounded-lg">
+                    Získať ponuku
+                </a>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <section class="relative bg-gradient-to-br from-slate-900 via-slate-800 to-slate-900 text-white py-20">
+        <div class="absolute inset-0 opacity-10">
+            <div class="absolute inset-0" style="background-image: radial-gradient(circle at 2px 2px, rgba(255,255,255,0.15) 1px, transparent 0); background-size: 40px 40px;"></div>
+        </div>
+        <div class="container mx-auto px-6 relative z-10 reveal">
+            <div class="max-w-4xl">
+                <span class="inline-block px-4 py-2 bg-orange-500/20 rounded-full text-sm font-semibold mb-4">
+                    Plazmové zdroje
+                </span>
+                <h1 class="text-4xl md:text-5xl font-bold mb-6">Hypertherm HPR XD</h1>
+                <p class="text-xl text-slate-300 mb-8">
+                    Špičková produktivita pri X-Y, skosenom aj robotickom rezaní kovov do hrúbky 160 mm
+                </p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Main Content -->
+    <section class="py-16">
+        <div class="container mx-auto px-6">
+            <div class="max-w-6xl mx-auto">
+                <!-- Brand Logo -->
+                <div class="flex justify-center mb-12">
+                    <img src="images/hyperthermpar.avif" alt="Hypertherm" class="max-h-24 object-contain" />
+                </div>
+
+                <!-- Vlastnosti -->
+                <div class="bg-white rounded-2xl shadow-lg p-8 mb-12">
+                    <h2 class="text-3xl font-bold text-slate-900 mb-6">Vlastnosti</h2>
+                    <p class="text-lg text-slate-700 leading-relaxed mb-4">
+                        Systémy HyPerformance® plasma zabezpečujú špičkovú produktivitu pri X-Y, skosenom aj robotickom rezaní a značení kovov do hrúbky 160 mm. Vďaka vyšším rýchlostiam rezania, rýchlej výmene procesov a vysokej spoľahlivosti rastie priepustnosť a klesajú prevádzkové náklady.
+                    </p>
+                    <p class="text-lg text-slate-700 leading-relaxed">
+                        Modulárna koncepcia umožňuje zvoliť konfiguráciu podľa aktuálnych potrieb a zároveň ľahko upgradovať na budúce požiadavky. Jemné detaily rezu dosahujú konzistentnú kvalitu bez potreby sekundárneho opracovania.
+                    </p>
+                </div>
+
+                <!-- Technológie -->
+                <div class="grid grid-cols-1 md:grid-cols-2 gap-6 mb-12">
+                    <div class="feature-card bg-gradient-to-br from-orange-50 to-white rounded-2xl shadow-lg p-6">
+                        <div class="w-12 h-12 gradient-bg rounded-lg flex items-center justify-center mb-4">
+                            <svg class="w-6 h-6 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z"/>
+                            </svg>
+                        </div>
+                        <h3 class="text-xl font-bold text-slate-900 mb-3">PowerPierce™</h3>
+                        <p class="text-slate-700">
+                            Patentovaná PowerPierce™ rozširuje robustné prevŕtavanie až do 45 mm pri 400 A a 75 mm pri 800 A. Pri riadenom pohybe dosahuje na nerezi až 75 mm pri 400 A a 100 mm pri 800 A.
+                        </p>
+                    </div>
+
+                    <div class="feature-card bg-gradient-to-br from-blue-50 to-white rounded-2xl shadow-lg p-6">
+                        <div class="w-12 h-12 gradient-bg rounded-lg flex items-center justify-center mb-4">
+                            <svg class="w-6 h-6 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"/>
+                            </svg>
+                        </div>
+                        <h3 class="text-xl font-bold text-slate-900 mb-3">LongLife®</h3>
+                        <p class="text-slate-700">
+                            Ťažkoodolné systémy LongLife® pre vzduch a kyslík sú úspornou alternatívou k autogénu či jednoplynových plazmám. Patentovaná technológia výrazne predlžuje životnosť spotrebných dielov.
+                        </p>
+                    </div>
+
+                    <div class="feature-card bg-gradient-to-br from-green-50 to-white rounded-2xl shadow-lg p-6">
+                        <div class="w-12 h-12 gradient-bg rounded-lg flex items-center justify-center mb-4">
+                            <svg class="w-6 h-6 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"/>
+                            </svg>
+                        </div>
+                        <h3 class="text-xl font-bold text-slate-900 mb-3">True Hole™</h3>
+                        <p class="text-slate-700">
+                            Súčasť technológie SureCut™ automaticky zabezpečí otvory v kvalite, ktorú plazma nedosahovala. True Hole™ funguje do hrúbky 25 mm s pomermi priemeru k hrúbke od 2:1 po 1:1.
+                        </p>
+                    </div>
+
+                    <div class="feature-card bg-gradient-to-br from-purple-50 to-white rounded-2xl shadow-lg p-6">
+                        <div class="w-12 h-12 gradient-bg rounded-lg flex items-center justify-center mb-4">
+                            <svg class="w-6 h-6 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 3v4M3 5h4M6 17v4m-2-2h4m5-16l2.286 6.857L21 12l-5.714 2.143L13 21l-2.286-6.857L5 12l5.714-2.143L13 3z"/>
+                            </svg>
+                        </div>
+                        <h3 class="text-xl font-bold text-slate-900 mb-3">HyDefinition®</h3>
+                        <p class="text-slate-700">
+                            Ventilovaná dýza zarovná a zaostrí oblúk pre precízny rez s vysokou konzistentnosťou. HyDefinition® prináša špičkovú kvalitu na konštrukčnej oceli a HDi™ prenáša rovnakú úroveň aj na tenké nerezové plechy.
+                        </p>
+                    </div>
+                </div>
+
+                <!-- Technické údaje HPR XD -->
+                <div class="bg-white rounded-2xl shadow-lg p-8 mb-12">
+                    <h2 class="text-3xl font-bold text-slate-900 mb-8">Technické údaje HPR XD</h2>
+                    
+                    <h3 class="text-xl font-bold text-slate-900 mb-4">Výstupné parametre</h3>
+                    <div class="overflow-x-auto">
+                        <table class="spec-table">
+                            <thead>
+                                <tr>
+                                    <th>Parameter</th>
+                                    <th>HPR 260XD</th>
+                                    <th>HPR 400XD</th>
+                                    <th>HPR 800XD + chladič</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>Prevádzkové podmienky</td>
+                                    <td colspan="3">40 °C</td>
+                                </tr>
+                                <tr>
+                                    <td>Pracovný cyklus</td>
+                                    <td colspan="3">100 %</td>
+                                </tr>
+                                <tr>
+                                    <td>Výstupné napätie (VDC)</td>
+                                    <td colspan="3">200 V</td>
+                                </tr>
+                                <tr>
+                                    <td>Výstupný výkon</td>
+                                    <td>45,5 kW</td>
+                                    <td>80 kW</td>
+                                    <td>160 kW</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+
+                    <h3 class="text-xl font-bold text-slate-900 mb-4 mt-8">Elektrické napájanie</h3>
+                    <div class="overflow-x-auto">
+                        <table class="spec-table">
+                            <thead>
+                                <tr>
+                                    <th>Parameter</th>
+                                    <th>HPR 260XD</th>
+                                    <th>HPR 400XD</th>
+                                    <th>HPR 800XD + chladič</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>Prúd odoberaný zo siete</td>
+                                    <td>380 V: 84 A<br>400 V: 75 A<br>480 V: 62 A</td>
+                                    <td>380 V: 138 A<br>400 V: 131 A<br>480 V: 110 A</td>
+                                    <td>380 V: 138 A + 20 A<br>400 V: 131 A + 20 A<br>480 V: 110 A + 15 A</td>
+                                </tr>
+                                <tr>
+                                    <td>Frekvencia</td>
+                                    <td colspan="3">50/60 Hz</td>
+                                </tr>
+                                <tr>
+                                    <td>Fázy</td>
+                                    <td colspan="3">3</td>
+                                </tr>
+                                <tr>
+                                    <td>Napájacie napätie</td>
+                                    <td colspan="3">380 V / 400 V / 480 V</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+
+                    <h3 class="text-xl font-bold text-slate-900 mb-4 mt-8">Rezné parametre</h3>
+                    <div class="overflow-x-auto">
+                        <table class="spec-table">
+                            <thead>
+                                <tr>
+                                    <th>Parameter</th>
+                                    <th>HPR 260XD</th>
+                                    <th>HPR 400XD</th>
+                                    <th>HPR 800XD</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>Materiál</td>
+                                    <td colspan="3">Konštrukčná oceľ</td>
+                                </tr>
+                                <tr>
+                                    <td>Prierazy (štandard)</td>
+                                    <td>32 mm</td>
+                                    <td>38 mm</td>
+                                    <td>38 mm</td>
+                                </tr>
+                                <tr>
+                                    <td>Prierazy (max.)</td>
+                                    <td>38 mm</td>
+                                    <td>50 mm</td>
+                                    <td>50 mm</td>
+                                </tr>
+                                <tr>
+                                    <td>Max. štart z hrany</td>
+                                    <td>64 mm</td>
+                                    <td>80 mm</td>
+                                    <td>80 mm</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+
+                    <h3 class="text-xl font-bold text-slate-900 mb-4 mt-8">Procesné plyny a rozmery</h3>
+                    <div class="overflow-x-auto">
+                        <table class="spec-table">
+                            <thead>
+                                <tr>
+                                    <th>Parameter</th>
+                                    <th>HPR 260XD</th>
+                                    <th>HPR 400XD</th>
+                                    <th>HPR 800XD + chladič</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>Plazmové plyny</td>
+                                    <td colspan="3">Vzduch, O₂, Ar-H₂, N₂</td>
+                                </tr>
+                                <tr>
+                                    <td>Ochranné plyny</td>
+                                    <td colspan="3">Vzduch, N₂, O₂ @ 120 psi (8,3 bar)</td>
+                                </tr>
+                                <tr>
+                                    <td>Napätie oblúka (VDC)</td>
+                                    <td>311 V</td>
+                                    <td>360 V</td>
+                                    <td>360 V</td>
+                                </tr>
+                                <tr>
+                                    <td>Rozmery (d × š × v)</td>
+                                    <td>1150×820×1190 mm</td>
+                                    <td>1180×880×1260 mm</td>
+                                    <td>1219×698×1031 mm<br>+ 1170×870×1370 mm</td>
+                                </tr>
+                                <tr>
+                                    <td>Hmotnosť</td>
+                                    <td>567 kg</td>
+                                    <td>851 kg</td>
+                                    <td>851 kg + 449 kg</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="bg-slate-900 text-white py-12">
+        <div class="container mx-auto px-6">
+            <div class="grid grid-cols-2 md:grid-cols-4 gap-8 mb-8">
+                <div>
+                    <div class="flex items-center gap-3 mb-4">
+                        <img src="images/logo.avif" alt="ERBOS Logo" class="h-10 w-10 object-contain">
+                        <span class="text-xl font-bold">ERBOS</span>
+                    </div>
+                    <p class="text-slate-400 text-sm">Profesionálne laserové technológie</p>
+                </div>
+                
+                <div>
+                    <h3 class="font-bold mb-4">Produkty</h3>
+                    <ul class="space-y-2 text-sm text-slate-400">
+                        <li><a href="fiber-lasery.html" class="hover:text-orange-400 transition-colors">Fiber Lasery</a></li>
+                        <li><a href="paliace-stroje.html" class="hover:text-orange-400 transition-colors">Paliace Stroje</a></li>
+                        <li><a href="laserove-zvaranie.html" class="hover:text-orange-400 transition-colors">Laserové Zváranie</a></li>
+                    </ul>
+                </div>
+                
+                <div>
+                    <h3 class="font-bold mb-4">Spoločnosť</h3>
+                    <ul class="space-y-2 text-sm text-slate-400">
+                        <li><a href="onas.html" class="hover:text-orange-400 transition-colors">O nás</a></li>
+                        <li><a href="downloads.html" class="hover:text-orange-400 transition-colors">Na stiahnutie</a></li>
+                    </ul>
+                </div>
+                
+                <div>
+                    <h3 class="font-bold mb-4">Kontakt</h3>
+                    <ul class="space-y-2 text-sm text-slate-400">
+                        <li><a href="tel:+421944093833" class="hover:text-orange-400 transition-colors">+421 944 093 833</a></li>
+                        <li><a href="mailto:obchod@erbos.sk" class="hover:text-orange-400 transition-colors">obchod@erbos.sk</a></li>
+                        
+                    </ul>
+                </div>
+            </div>
+
+            <div class="border-t border-slate-800 pt-8 text-center text-sm text-slate-400">
+                <p>&copy; 2025 ERBOS. Všetky práva vyhradené./HJ development/</p>
+            </div>
+        </div>
+    </footer>
+
+    <script>
+        window.addEventListener('scroll', () => {
+            const navbar = document.getElementById('navbar');
+            if (window.scrollY > 50) {
+                navbar.classList.add('nav-sticky');
+            } else {
+                navbar.classList.remove('nav-sticky');
+            }
+        });
+        
+        const mobileMenuBtn = document.getElementById('mobile-menu-btn');
+        const mobileMenu = document.getElementById('mobile-menu');
+        const menuIcon = document.getElementById('menu-icon');
+        const closeIcon = document.getElementById('close-icon');
+        
+        mobileMenuBtn.addEventListener('click', () => {
+            mobileMenu.classList.toggle('active');
+            menuIcon.classList.toggle('hidden');
+            closeIcon.classList.toggle('hidden');
+        });
+    </script>
+    <script src="/reveal.js" defer></script>
+</body>
+</html>
+
+
+
+

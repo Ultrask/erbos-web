@@ -1,0 +1,1372 @@
+﻿{
+    "Vlastnosti a výhody": {
+        "en": "Features and Benefits",
+        "de": "Merkmale und Vorteile",
+        "hu": "Jellemzők és előnyök"
+    },
+    "Naše modely": {
+        "en": "Our Models",
+        "de": "Unsere Modelle",
+        "hu": "Modelljeink"
+    },
+    "Pokročilé funkcie": {
+        "en": "Advanced Functions",
+        "de": "Erweiterte Funktionen",
+        "hu": "Fejlett funkciók"
+    },
+    "Technické parametre": {
+        "en": "Technical Parameters",
+        "de": "Technische Parameter",
+        "hu": "Műszaki paraméterek"
+    },
+    "3D Rezanie a Úkosovanie": {
+        "en": "3D Cutting and Beveling",
+        "de": "3D-Schneiden und Fasen",
+        "hu": "3D vágás és ferdevágás"
+    },
+    "Pokročilá technológia pre presnú prípravu zvarových plôch a priestorové delenie materiálu.": {
+        "en": "Advanced technology for precise preparation of welding surfaces and spatial material division.",
+        "de": "Fortschrittliche Technologie zur präzisen Vorbereitung von Schweißflächen und räumlichen Materialtrennung.",
+        "hu": "Fejlett technológia a hegesztési felületek precíz előkészítéséhez és a térbeli anyagfelosztáshoz."
+    },
+    "Technológia Vanad Rotator": {
+        "en": "Vanad Rotator Technology",
+        "de": "Vanad Rotator Technologie",
+        "hu": "Vanad Rotator technológia"
+    },
+    "Plazmová hlava <strong>Vanad Rotator</strong> predstavuje špičku v oblasti 3D rezania. Je určená pre náročné aplikácie, kde je vyžadovaná maximálna presnosť a flexibilita pri úkosovom rezaní.": {
+        "en": "The <strong>Vanad Rotator</strong> plasma head represents the pinnacle of 3D cutting. It is designed for demanding applications where Maximum Precision and Flexibility in bevel cutting are required.",
+        "de": "Der <strong>Vanad Rotator</strong> Plasmakopf stellt die Spitze im Bereich des 3D-Schneidens dar. Er ist für anspruchsvolle Anwendungen konzipiert, bei denen maximale Präzision und Flexibilität beim Fasenschneiden erforderlich sind.",
+        "hu": "A <strong>Vanad Rotator</strong> plazmafej a 3D vágás csúcsát képviseli. Igényes alkalmazásokhoz tervezték, ahol maximális pontosság és rugalmasság szükséges a ferdevágásnál."
+    },
+    "Vďaka 5-osému riadeniu umožňuje Rotator vytvárať presné úkosy typu V, Y, X a K, ktoré sú nevyhnutné pre kvalitnú prípravu zvarových plôch. Tým sa eliminuje potreba dodatočného mechanického opracovania, čo výrazne šetrí čas a náklady.": {
+        "en": "Thanks to 5-axis control, the Rotator allows creating precise V, Y, X, and K type bevels, which are essential for quality preparation of welding surfaces. This eliminates the need for additional mechanical processing, significantly saving time and costs.",
+        "de": "Dank der 5-Achsen-Steuerung ermöglicht der Rotator die Erstellung präziser Fasen vom Typ V, Y, X und K, die für eine qualitativ hochwertige Vorbereitung von Schweißflächen unerlässlich sind. Dadurch entfällt die Notwendigkeit einer zusätzlichen mechanischen Bearbeitung, was Zeit und Kosten erheblich spart.",
+        "hu": "Az 5 tengelyes vezérlésnek köszönhetően a Rotator lehetővé teszi precíz V, Y, X és K típusú ferdevágások létrehozását, amelyek elengedhetetlenek a hegesztési felületek minőségi előkészítéséhez. Ez kiküszöböli a további mechanikai megmunkálás szükségességét, jelentősen megtakarítva az időt és a költségeket."
+    },
+    "Plne automatické úkosovanie": {
+        "en": "Fully Automatic Beveling",
+        "de": "Vollautomatisches Fasen",
+        "hu": "Teljesen automatikus ferdevágás"
+    },
+    "Automatická korekcia uhla a výšky horáka počas rezania.": {
+        "en": "Automatic correction of torch angle and height during cutting.",
+        "de": "Automatische Korrektur von Brennerwinkel und -höhe während des Schneidens.",
+        "hu": "A fáklya szögének és magasságának automatikus korrekciója vágás közben."
+    },
+    "Rozsah naklopenia": {
+        "en": "Tilt Range",
+        "de": "Neigungsbereich",
+        "hu": "Dőlésszög tartomány"
+    },
+    "Možnosť naklopenia horáka až do  50° (v závislosti od konfigurácie).": {
+        "en": "Torch tilt capability up to 50° (depending on configuration).",
+        "de": "Möglichkeit, den Brenner bis zu 50° zu neigen (abhängig von der Konfiguration).",
+        "hu": "A fáklya akár 50°-os döntésének lehetősége (konfigurációtól függően)."
+    },
+    "Kompatibilita": {
+        "en": "Compatibility",
+        "de": "Kompatibilität",
+        "hu": "Kompatibilitás"
+    },
+    "Ideálne pre stroje Vanad BLUESTER a Vanad PROXIMA.": {
+        "en": "Ideal for Vanad BLUESTER and Vanad PROXIMA machines.",
+        "de": "Ideal für Vanad BLUESTER und Vanad PROXIMA Maschinen.",
+        "hu": "Ideális Vanad BLUESTER és Vanad PROXIMA gépekhez."
+    },
+    "Maximálna efektivita": {
+        "en": "Maximum Efficiency",
+        "de": "Maximale Effizienz",
+        "hu": "Maximális hatékonyság"
+    },
+    "Výrazné zníženie času potrebného na prípravu zvarových plôch. Odpadá nutnosť brúsenia a ďalšieho opracovania.": {
+        "en": "Significant reduction in time required for welding surface preparation. No need for grinding and further processing.",
+        "de": "Signifikante Reduzierung der Zeit für die Vorbereitung von Schweißflächen. Kein Schleifen und keine weitere Bearbeitung erforderlich.",
+        "hu": "Jelentős időmegtakarítás a hegesztési felületek előkészítésénél. Nincs szükség csiszolásra és további megmunkálásra."
+    },
+    "Vysoká presnosť": {
+        "en": "High Precision",
+        "de": "Hohe Präzision",
+        "hu": "Nagy pontosság"
+    },
+    "Precízne riadenie uhla rezu zaručuje konštantnú kvalitu úkosov po celej dĺžke rezu.": {
+        "en": "Precise control of the cutting angle ensures constant bevel quality along the entire cut length.",
+        "de": "Präzise Steuerung des Schnittwinkels gewährleistet konstante Fasenqualität über die gesamte Schnittlänge.",
+        "hu": "A vágási szög precíz vezérlése állandó ferdevágási minőséget biztosít a teljes vágási hossz mentén."
+    },
+    "Flexibilita": {
+        "en": "Flexibility",
+        "de": "Flexibilität",
+        "hu": "Rugalmasság"
+    },
+    "Možnosť rezania rôznych typov úkosov (V, Y, X, K) v jednom procese bez nutnosti preprogramovania.": {
+        "en": "Ability to cut various bevel types (V, Y, X, K) in a single process without reprogramming.",
+        "de": "Möglichkeit, verschiedene Fasentypen (V, Y, X, K) in einem Prozess ohne Neuprogrammierung zu schneiden.",
+        "hu": "Különböző típusú ferdevágások (V, Y, X, K) vágásának lehetősége egyetlen folyamatban, átprogramozás nélkül."
+    },
+    "Profesionálne Fiber Lasery": {
+        "en": "Professional Fiber Lasers",
+        "de": "Professionelle Faserlaser",
+        "hu": "Professzionális száloptikás lézerek"
+    },
+    "Séria vysoko výkonných fiber laserov na rezanie plechov, rúr a profilov": {
+        "en": "Series of high-performance fiber lasers for cutting sheets, tubes, and profiles",
+        "de": "Serie von Hochleistungs-Faserlasern zum Schneiden von Blechen, Rohren und Profilen",
+        "hu": "Nagy teljesítményű száloptikás lézerek sorozata lemezek, csövek és profilok vágásához"
+    },
+    "Špičková technológia pre maximálnu presnosť a efektivitu": {
+        "en": "Top technology for maximum precision and efficiency",
+        "de": "Spitzentechnologie für maximale Präzision und Effizienz",
+        "hu": "Csúcstechnológia a maximális pontosság és hatékonyság érdekében"
+    },
+    "Maximálna presnosť rezu": {
+        "en": "Maximum Cutting Precision",
+        "de": "Maximale Schnittpräzision",
+        "hu": "Maximális vágási pontosság"
+    },
+    "Minimálna rezná špára pre najlepšie výsledky": {
+        "en": "Minimum kerf for best results",
+        "de": "Minimale Schnittfuge für beste Ergebnisse",
+        "hu": "Minimális vágási rés a legjobb eredményekért"
+    },
+    "Vysoká rýchlosť": {
+        "en": "High Speed",
+        "de": "Hohe Geschwindigkeit",
+        "hu": "Nagy sebesség"
+    },
+    "Enormné rezné rýchlosti a akcelerácia až 2,5G": {
+        "en": "Enormous cutting speeds and acceleration up to 2.5G",
+        "de": "Enorme Schnittgeschwindigkeiten und Beschleunigung bis zu 2,5G",
+        "hu": "Hatalmas vágási sebességek és akár 2,5G gyorsulás"
+    },
+    "Ekonomické rezanie": {
+        "en": "Economical Cutting",
+        "de": "Wirtschaftliches Schneiden",
+        "hu": "Gazdaságos vágás"
+    },
+    "Možnosť rezania stlačeným vzduchom": {
+        "en": "Possibility of cutting with compressed air",
+        "de": "Möglichkeit des Schneidens mit Druckluft",
+        "hu": "Sűrített levegővel történő vágás lehetősége"
+    },
+    "Vysoká životnosť": {
+        "en": "Long Lifespan",
+        "de": "Lange Lebensdauer",
+        "hu": "Hosszú élettartam"
+    },
+    "Dlhá životnosť laserového zdroja": {
+        "en": "Long lifespan of the laser source",
+        "de": "Lange Lebensdauer der Laserquelle",
+        "hu": "A lézerforrás hosszú élettartama"
+    },
+    "Maximálna presnosť rezu - minimálna rezná špára": {
+        "en": "Maximum cutting precision - minimum kerf",
+        "de": "Maximale Schnittpräzision - minimale Schnittfuge",
+        "hu": "Maximális vágási pontosság - minimális vágási rés"
+    },
+    "Tuhá konštrukcia, vynikajúce dynamické vlastnosti": {
+        "en": "Rigid construction, excellent dynamic properties",
+        "de": "Starre Konstruktion, hervorragende dynamische Eigenschaften",
+        "hu": "Merev szerkezet, kiváló dinamikai tulajdonságok"
+    },
+    "Rezanie vysoko reflexných materiálov": {
+        "en": "Cutting of highly reflective materials",
+        "de": "Schneiden von hochreflektierenden Materialien",
+        "hu": "Erősen fényvisszaverő anyagok vágása"
+    },
+    "Výkon laseru štandardne do 130 kW": {
+        "en": "Laser power standard up to 130 kW",
+        "de": "Laserleistung standardmäßig bis 130 kW",
+        "hu": "Lézerteljesítmény alapfelszereltségként 130 kW-ig"
+    },
+    "Vysoko presné optické odmeriavanie polohy": {
+        "en": "High-precision optical position measurement",
+        "de": "Hochpräzise optische Positionsmessung",
+        "hu": "Nagy pontosságú optikai pozíciómérés"
+    },
+    "Intuitívne ovládanie, minimálne nároky na údržbu": {
+        "en": "Intuitive control, minimal maintenance requirements",
+        "de": "Intuitive Steuerung, minimaler Wartungsaufwand",
+        "hu": "Intuitív vezérlés, minimális karbantartási igény"
+    },
+    "Rezanie až do 70mm hrúbky": {
+        "en": "Cutting up to 70mm thickness",
+        "de": "Schneiden bis zu 70mm Dicke",
+        "hu": "Vágás akár 70mm vastagságig"
+    },
+    "Lineárne motory pre vysokú presnosť": {
+        "en": "Linear motors for high precision",
+        "de": "Linearmotoren für hohe Präzision",
+        "hu": "Lineáris motorok a nagy pontosságért"
+    },
+    "Profesionálne Paliace Stroje": {
+        "en": "Professional Cutting Machines",
+        "de": "Professionelle Schneidemaschinen",
+        "hu": "Professzionális vágógépek"
+    },
+    "CNC termické paliace stroje Vanad": {
+        "en": "Vanad CNC thermal cutting machines",
+        "de": "Vanad CNC-Thermoschneidemaschinen",
+        "hu": "Vanad CNC termikus vágógépek"
+    },
+    "Autogénne a plazmové rezanie s maximálnou presnosťou": {
+        "en": "Oxy-fuel and plasma cutting with maximum precision",
+        "de": "Autogen- und Plasmaschneiden mit maximaler Präzision",
+        "hu": "Láng- és plazmavágás maximális pontossággal"
+    },
+    "Naše paliace stroje": {
+        "en": "Our Cutting Machines",
+        "de": "Unsere Schneidemaschinen",
+        "hu": "Vágógépeink"
+    },
+    "Komplexná rada CNC termických paliacich strojov": {
+        "en": "Comprehensive range of CNC thermal cutting machines",
+        "de": "Umfassendes Angebot an CNC-Thermoschneidemaschinen",
+        "hu": "CNC termikus vágógépek átfogó választéka"
+    },
+    "Páliaci stroj s vynikajúcimi dynamickými vlastnosťami, určený pre najnáročnejšie operácie. Určený na spracovanie veľmi veľkých formátov kovových plechov s autogénnou a plazmovou technológiou, vrátane automatického úkosového rezania.": {
+        "en": "Cutting machine with excellent dynamic properties, designed for the most demanding operations. Designed for processing very large formats of metal sheets with oxy-fuel and plasma technology, including automatic bevel cutting.",
+        "de": "Schneidemaschine mit hervorragenden dynamischen Eigenschaften, konzipiert für anspruchsvollste Operationen. Entwickelt für die Bearbeitung sehr großer Blechformate mit Autogen- und Plasmatechnologie, einschließlich automatischem Fasenschneiden.",
+        "hu": "Kiváló dinamikai tulajdonságokkal rendelkező vágógép, a legigényesebb műveletekhez tervezve. Nagyon nagy formátumú fémlemezek láng- és plazmatechnológiával történő feldolgozására, beleértve az automatikus ferdevágást is."
+    },
+    "Autogénne": {
+        "en": "Oxy-fuel",
+        "de": "Autogen",
+        "hu": "Lángvágás"
+    },
+    "Plazmové": {
+        "en": "Plasma",
+        "de": "Plasma",
+        "hu": "Plazma"
+    },
+    "Úkosové rezanie": {
+        "en": "Bevel Cutting",
+        "de": "Fasenschneiden",
+        "hu": "Ferdevágás"
+    },
+    "Moderné, vysoko výkonné zariadenie používané v širokom spektre aplikácií pre termické rezanie. Stroj je vhodný na autogénne a plazmové rezanie. Vyniká maximálnou presnosťou a efektivitou.": {
+        "en": "Modern, high-performance device used in a wide range of thermal cutting applications. The machine is suitable for oxy-fuel and plasma cutting. It excels in maximum precision and efficiency.",
+        "de": "Modernes Hochleistungsgerät für ein breites Spektrum an Thermoschneidanwendungen. Die Maschine ist für Autogen- und Plasmaschneiden geeignet. Sie zeichnet sich durch maximale Präzision und Effizienz aus.",
+        "hu": "Modern, nagy teljesítményű berendezés, amelyet a termikus vágási alkalmazások széles körében használnak. A gép alkalmas láng- és plazmavágásra. Maximális pontossággal és hatékonysággal tűnik ki."
+    },
+    "Vysoký výkon": {
+        "en": "High Performance",
+        "de": "Hohe Leistung",
+        "hu": "Nagy teljesítmény"
+    },
+    "Maximálna presnosť": {
+        "en": "Maximum Precision",
+        "de": "Maximale Präzision",
+        "hu": "Maximális pontosság"
+    },
+    "CNC termický paliaci stroj možno použiť na autogénne a plazmové rezanie, predovšetkým v malých a stredne veľkých firmách. Je určený na bežnú dvojzmenné prevádzke.": {
+        "en": "CNC thermal cutting machine can be used for oxy-fuel and plasma cutting, primarily in small and medium-sized companies. It is designed for regular two-shift operation.",
+        "de": "CNC-Thermoschneidemaschine kann für Autogen- und Plasmaschneiden verwendet werden, vor allem in kleinen und mittleren Unternehmen. Sie ist für den regulären Zweischichtbetrieb ausgelegt.",
+        "hu": "A CNC termikus vágógép láng- és plazmavágásra használható, elsősorban kis- és középvállalkozásoknál. Rendszeres kétműszakos üzemre tervezték."
+    },
+    "Pre SME": {
+        "en": "For SME",
+        "de": "Für KMU",
+        "hu": "KKV-k számára"
+    },
+    "Dvojzmenná prevádzka": {
+        "en": "Two-shift operation",
+        "de": "Zweischichtbetrieb",
+        "hu": "Kétműszakos üzem"
+    },
+    "Optimálne riešenie s jednoduchým dizajnom. Je navrhnutý hlavne pre stredne veľké podniky. Stroj je určený na spracovanie štandardných kovových plechov.": {
+        "en": "Optimal solution with simple design. Designed mainly for medium-sized enterprises. The machine is intended for processing standard metal sheets.",
+        "de": "Optimale Lösung mit einfachem Design. Hauptsächlich für mittelständische Unternehmen konzipiert. Die Maschine ist für die Bearbeitung von Standardblechen vorgesehen.",
+        "hu": "Optimális megoldás egyszerű kialakítással. Főleg középvállalkozások számára tervezték. A gép szabványos fémlemezek feldolgozására szolgál."
+    },
+    "Jednoduchý dizajn": {
+        "en": "Simple Design",
+        "de": "Einfaches Design",
+        "hu": "Egyszerű kialakítás"
+    },
+    "Optimálne riešenie": {
+        "en": "Optimal Solution",
+        "de": "Optimale Lösung",
+        "hu": "Optimális megoldás"
+    },
+    "Skvelé kompaktné riešenie s ľahkou montážou a manipuláciou. Ich konštrukcia umožňuje zákazníkom obrábať najbežnejšie formáty kovových plechov.": {
+        "en": "Great compact solution with easy assembly and handling. Their construction allows customers to machine the most common formats of metal sheets.",
+        "de": "Großartige kompakte Lösung mit einfacher Montage und Handhabung. Ihre Konstruktion ermöglicht es Kunden, die gängigsten Blechformate zu bearbeiten.",
+        "hu": "Nagyszerű kompakt megoldás könnyű összeszereléssel és kezeléssel. Szerkezetük lehetővé teszi az ügyfelek számára a leggyakoribb fémlemez formátumok megmunkálását."
+    },
+    "Kompaktné": {
+        "en": "Compact",
+        "de": "Kompakt",
+        "hu": "Kompakt"
+    },
+    "Ľahká montáž": {
+        "en": "Easy Assembly",
+        "de": "Einfache Montage",
+        "hu": "Könnyű összeszerelés"
+    },
+    "Kompaktné riešenie s ľahkou montážou a manipuláciou. Konštrukcia umožňuje obrábať najbežnejšie formáty kovových plechov. Navrhnutý pre použitie štandardných vzduchových plazmových systémov.": {
+        "en": "Compact solution with easy assembly and handling. Construction allows machining the most common formats of metal sheets. Designed for use with standard air plasma systems.",
+        "de": "Kompakte Lösung mit einfacher Montage und Handhabung. Die Konstruktion ermöglicht die Bearbeitung der gängigsten Blechformate. Entwickelt für den Einsatz mit Standard-Luftplasmasystemen.",
+        "hu": "Kompakt megoldás könnyű összeszereléssel és kezeléssel. A szerkezet lehetővé teszi a leggyakoribb fémlemez formátumok megmunkálását. Szabványos levegőplazma rendszerekkel való használatra tervezték."
+    },
+    "Light verzia": {
+        "en": "Light Version",
+        "de": "Light-Version",
+        "hu": "Light verzió"
+    },
+    "Vzduchová plazma": {
+        "en": "Air Plasma",
+        "de": "Luftplasma",
+        "hu": "Levegőplazma"
+    },
+    "Vyznačuje sa svojou jednoduchosťou. Je ideálnym riešením pre menšie prevádzky a firmy začínajúce s termickým rezaním materiálov.": {
+        "en": "Characterized by its simplicity. It is an ideal solution for smaller operations and companies starting with thermal material cutting.",
+        "de": "Zeichnet sich durch seine Einfachheit aus. Es ist eine ideale Lösung für kleinere Betriebe und Unternehmen, die mit dem thermischen Materialschneiden beginnen.",
+        "hu": "Egyszerűségével tűnik ki. Ideális megoldás kisebb üzemek és a termikus anyagvágással kezdő cégek számára."
+    },
+    "Pre začiatočníkov": {
+        "en": "For Beginners",
+        "de": "Für Anfänger",
+        "hu": "Kezdőknek"
+    },
+    "Jednoduchosť": {
+        "en": "Simplicity",
+        "de": "Einfachheit",
+        "hu": "Egyszerűség"
+    },
+    "Laserový CNC paliaci stroj je špičkové zariadenie s jednoduchou konštrukciou. Jeho výhodou je rýchla a jednoduchá inštalácia. Vďaka otvorenému prístupu môže spracovávať väčšie alebo neštandardné kovové plechy.": {
+        "en": "Laser CNC cutting machine is a top device with simple construction. Its advantage is fast and easy installation. Thanks to open access, it can process larger or non-standard metal sheets.",
+        "de": "Die Laser-CNC-Schneidemaschine ist ein Spitzengerät mit einfacher Konstruktion. Ihr Vorteil ist die schnelle und einfache Installation. Dank des offenen Zugangs können größere oder nicht standardmäßige Bleche bearbeitet werden.",
+        "hu": "A lézeres CNC vágógép csúcsminőségű berendezés egyszerű szerkezettel. Előnye a gyors és egyszerű telepítés. A nyitott hozzáférésnek köszönhetően nagyobb vagy nem szabványos fémlemezeket is képes feldolgozni."
+    },
+    "Otvorený prístup": {
+        "en": "Open Access",
+        "de": "Offener Zugang",
+        "hu": "Nyitott hozzáférés"
+    },
+    "Neštandardné plechy": {
+        "en": "Non-standard Sheets",
+        "de": "Nicht standardmäßige Bleche",
+        "hu": "Nem szabványos lemezek"
+    },
+    "Máte záujem o paliace stroje?": {
+        "en": "Interested in cutting machines?",
+        "de": "Interessiert an Schneidemaschinen?",
+        "hu": "Érdeklik a vágógépek?"
+    },
+    "Kontaktujte nás pre podrobné informácie a cenovú ponuku": {
+        "en": "Contact us for detailed information and a price quote",
+        "de": "Kontaktieren Sie uns für detaillierte Informationen und ein Preisangebot",
+        "hu": "Lépjen kapcsolatba velünk részletes információkért és árajánlatért"
+    },
+    "Kontaktovať nás": {
+        "en": "Contact Us",
+        "de": "Kontaktieren Sie uns",
+        "hu": "Lépjen kapcsolatba velünk"
+    },
+    "Laserové technológie": {
+        "en": "Laser Technologies",
+        "de": "Lasertechnologien",
+        "hu": "Lézertechnológiák"
+    },
+    "Domov": {
+        "en": "Home",
+        "de": "Startseite",
+        "hu": "Kezdőlap"
+    },
+    "O nás": {
+        "en": "About Us",
+        "de": "Über uns",
+        "hu": "Rólunk"
+    },
+    "Služby": {
+        "en": "Services",
+        "de": "Dienstleistungen",
+        "hu": "Szolgáltatások"
+    },
+    "Produkty": {
+        "en": "Products",
+        "de": "Produkte",
+        "hu": "Termékek"
+    },
+    "Na stiahnutie": {
+        "en": "Downloads",
+        "de": "Downloads",
+        "hu": "Letöltések"
+    },
+    "Kontakt": {
+        "en": "Contact",
+        "de": "Kontakt",
+        "hu": "Kapcsolat"
+    },
+    "Získať ponuku": {
+        "en": "Get a Quote",
+        "de": "Angebot anfordern",
+        "hu": "Ajánlatkérés"
+    },
+    "Fiber lasery": {
+        "en": "Fiber Lasers",
+        "de": "Faserlaser",
+        "hu": "Száloptikás lézerek"
+    },
+    "Páliace stroje": {
+        "en": "Cutting Machines",
+        "de": "Schneidemaschinen",
+        "hu": "Vágógépek"
+    },
+    "3D Rezanie": {
+        "en": "3D Cutting",
+        "de": "3D-Schneiden",
+        "hu": "3D vágás"
+    },
+    "Laserové zváranie": {
+        "en": "Laser Welding",
+        "de": "Laserschweißen",
+        "hu": "Lézerhegesztés"
+    },
+    "Laserové značenie": {
+        "en": "Laser Marking",
+        "de": "Laserbeschriftung",
+        "hu": "Lézeres jelölés"
+    },
+    "Laserové pracoviská": {
+        "en": "Laser Workstations",
+        "de": "Laserarbeitsplätze",
+        "hu": "Lézeres munkaállomások"
+    },
+    "Odsávacie stoly": {
+        "en": "Extraction Tables",
+        "de": "Absaugtische",
+        "hu": "Elszívó asztalok"
+    },
+    "Filtrácie": {
+        "en": "Filtration",
+        "de": "Filtration",
+        "hu": "Szűrés"
+    },
+    "Spotrebné diely": {
+        "en": "Consumables",
+        "de": "Verbrauchsmaterialien",
+        "hu": "Fogyóeszközök"
+    },
+    "Odsávacie stoly a filtrácie - KEMPER, TIGEMMA | ERBOS": {
+        "en": "Extraction Tables and Filtration - KEMPER, TIGEMMA | ERBOS",
+        "de": "Absaugtische und Filtration - KEMPER, TIGEMMA | ERBOS",
+        "hu": "Elszívó asztalok és szűrés - KEMPER, TIGEMMA | ERBOS"
+    },
+    "Odsávacie stoly a filtračné systémy pre laserové, plazmové a autogénne rezanie. KEMPER a TIGEMMA riešenia s automatickou regeneráciou filtrov.": {
+        "en": "Extraction tables and filtration systems for laser, plasma, and oxy-fuel cutting. KEMPER and TIGEMMA solutions with automatic filter regeneration.",
+        "de": "Absaugtische und Filtersysteme für Laser-, Plasma- und Autogenschneiden. KEMPER und TIGEMMA Lösungen mit automatischer Filterregeneration.",
+        "hu": "Elszívó asztalok és szűrőrendszerek lézeres, plazma és lángvágáshoz. KEMPER és TIGEMMA megoldások automatikus szűrőregenerálással."
+    },
+    "Komplexné riešenia odsávania a filtrácie pre plazmové, laserové aj autogénne páliace stroje": {
+        "en": "Comprehensive extraction and filtration solutions for plasma, laser, and oxy-fuel cutting machines",
+        "de": "Umfassende Absaug- und Filtrationslösungen für Plasma-, Laser- und Autogenschneidemaschinen",
+        "hu": "Átfogó elszívó és szűrő megoldások plazma, lézer és lángvágó gépekhez"
+    },
+    "Profesionálne odsávacie stoly": {
+        "en": "Professional Extraction Tables",
+        "de": "Professionelle Absaugtische",
+        "hu": "Professzionális elszívó asztalok"
+    },
+    "Materiálové odsávacie stoly sú určené pre plazmové aj autogénne páliace stroje. Robustná konštrukcia v kombinácii so správne navrhnutým odsávacím systémom zabezpečuje optimálny odťah splodín, vyšší stupeň bezpečnosti a komfort pri údržbe stola.": {
+        "en": "Material extraction tables are designed for plasma and oxy-fuel cutting machines. Robust construction combined with a properly designed extraction system ensures optimal fume extraction, a higher level of safety, and comfort during table maintenance.",
+        "de": "Materialabsaugtische sind für Plasma- und Autogenschneidemaschinen konzipiert. Die robuste Konstruktion in Kombination mit einem richtig ausgelegten Absaugsystem gewährleistet eine optimale Rauchabsaugung, ein höheres Maß an Sicherheit und Komfort bei der Wartung des Tisches.",
+        "hu": "Az anyagelszívó asztalokat plazma és lángvágó gépekhez tervezték. A robusztus szerkezet a megfelelően megtervezett elszívórendszerrel kombinálva biztosítja az optimális füstelszívást, a magasabb szintű biztonságot és a kényelmet az asztal karbantartása során."
+    },
+    "Konštrukcia využíva princíp povrchového odsávania, ktorý je oproti bežne dostupným riešeniam rovnomernejší a účinnejší. Priestranná záchytná vaňa na hrubé nečistoty predlžuje intervaly čistenia a znižuje náklady na údržbu.": {
+        "en": "The construction uses the principle of surface extraction, which is more uniform and effective compared to commonly available solutions. A spacious catch basin for coarse impurities extends cleaning intervals and reduces maintenance costs.",
+        "de": "Die Konstruktion nutzt das Prinzip der Oberflächenabsaugung, das im Vergleich zu herkömmlichen Lösungen gleichmäßiger und effektiver ist. Eine geräumige Auffangwanne für grobe Verunreinigungen verlängert die Reinigungsintervalle und senkt die Wartungskosten.",
+        "hu": "A szerkezet a felületi elszívás elvét alkalmazza, amely a kereskedelemben kapható megoldásokhoz képest egyenletesebb és hatékonyabb. A durva szennyeződések számára kialakított tágas gyűjtőtálca meghosszabbítja a tisztítási intervallumokat és csökkenti a karbantartási költségeket."
+    },
+    "Segmentové zóny": {
+        "en": "Segmented Zones",
+        "de": "Segmentierte Zonen",
+        "hu": "Szegmentált zónák"
+    },
+    "Automaticky sa otvára len zóna pod horákom, čím sa maximalizuje účinnosť odsávania a znižuje spotreba energie ventilátorov.": {
+        "en": "Only the zone under the torch opens automatically, maximizing extraction efficiency and reducing fan energy consumption.",
+        "de": "Nur die Zone unter dem Brenner öffnet sich automatisch, was die Absaugeffizienz maximiert und den Energieverbrauch der Ventilatoren senkt.",
+        "hu": "Automatikusan csak a fáklya alatti zóna nyílik ki, maximalizálva az elszívás hatékonyságát és csökkentve a ventilátorok energiafogyasztását."
+    },
+    "Modulárne rozmery": {
+        "en": "Modular Dimensions",
+        "de": "Modulare Abmessungen",
+        "hu": "Moduláris méretek"
+    },
+    "Stoly dodávame v štandardných aj individuálnych rozmeroch vrátane podpory materiálu, záchytnej vane a prípravy pre automatické vyprázdňovanie.": {
+        "en": "We supply tables in standard and individual dimensions, including material support, catch basin, and preparation for automatic emptying.",
+        "de": "Wir liefern Tische in Standard- und individuellen Abmessungen, einschließlich Materialauflage, Auffangwanne und Vorbereitung für automatische Entleerung.",
+        "hu": "Az asztalokat szabványos és egyedi méretekben szállítjuk, beleértve az anyagtartót, a gyűjtőtálcát és az automatikus ürítés előkészítését."
+    },
+    "Servis a modernizácia": {
+        "en": "Service and Modernization",
+        "de": "Service und Modernisierung",
+        "hu": "Szerviz és korszerűsítés"
+    },
+    "Zabezpečujeme inštaláciu, servisné prehliadky a modernizáciu existujúcich stolov vrátane výmeny lamiel, klapiek a riadiacich prvkov.": {
+        "en": "We provide installation, service inspections, and modernization of existing tables, including replacement of slats, flaps, and control elements.",
+        "de": "Wir bieten Installation, Serviceinspektionen und Modernisierung bestehender Tische, einschließlich Austausch von Lamellen, Klappen und Steuerelementen.",
+        "hu": "Biztosítjuk a meglévő asztalok telepítését, szervizvizsgálatát és korszerűsítését, beleértve a lamellák, csappantyúk és vezérlőelemek cseréjét."
+    },
+    "Filtračné systémy": {
+        "en": "Filtration Systems",
+        "de": "Filtersysteme",
+        "hu": "Szűrőrendszerek"
+    },
+    "Profesionálne filtračné riešenia": {
+        "en": "Professional Filtration Solutions",
+        "de": "Professionelle Filtrationslösungen",
+        "hu": "Professzionális szűrési megoldások"
+    },
+    "Navrhujeme a inštalujeme filtračné riešenia pre laserové, plazmové aj autogénne rezanie. Zabezpečujeme projekt, inštaláciu, monitoring zanesenia a pravidelný servis.": {
+        "en": "We design and install filtration solutions for laser, plasma, and oxy-fuel cutting. We provide design, installation, clogging monitoring, and regular service.",
+        "de": "Wir entwerfen und installieren Filtrationslösungen für Laser-, Plasma- und Autogenschneiden. Wir bieten Planung, Installation, Überwachung der Verstopfung und regelmäßigen Service.",
+        "hu": "Szűrési megoldásokat tervezünk és telepítünk lézeres, plazma és lángvágáshoz. Biztosítjuk a tervezést, telepítést, az eltömődés figyelését és a rendszeres szervizelést."
+    },
+    "Naše filtračné systémy zabezpečujú čistý vzduch v pracovnom prostredí a splnenie legislatívnych požiadaviek na ochranu zdravia zamestnancov.": {
+        "en": "Our filtration systems ensure clean air in the working environment and compliance with legislative requirements for employee health protection.",
+        "de": "Unsere Filtersysteme sorgen für saubere Luft am Arbeitsplatz und die Einhaltung gesetzlicher Anforderungen zum Schutz der Gesundheit der Mitarbeiter.",
+        "hu": "Szűrőrendszereink biztosítják a tiszta levegőt a munkakörnyezetben és a munkavállalók egészségvédelmére vonatkozó jogszabályi követelmények betartását."
+    },
+    "KEMPER filtračné jednotky": {
+        "en": "KEMPER Filtration Units",
+        "de": "KEMPER Filtereinheiten",
+        "hu": "KEMPER szűrőegységek"
+    },
+    "Automatická regenerácia filtrov, snímače prietoku a inteligentné riadenie pre stredné a veľké prevádzky. Kompaktné i centrálne riešenia s vysokou účinnosťou.": {
+        "en": "Automatic filter regeneration, flow sensors, and intelligent control for medium and large operations. Compact and central solutions with high efficiency.",
+        "de": "Automatische Filterregeneration, Durchflusssensoren und intelligente Steuerung für mittlere und große Betriebe. Kompakte und zentrale Lösungen mit hoher Effizienz.",
+        "hu": "Automatikus szűrőregenerálás, áramlásérzékelők és intelligens vezérlés közepes és nagy üzemek számára. Kompakt és központi megoldások nagy hatékonysággal."
+    },
+    "Automatická regenerácia filtrov": {
+        "en": "Automatic Filter Regeneration",
+        "de": "Automatische Filterregeneration",
+        "hu": "Automatikus szűrőregenerálás"
+    },
+    "Inteligentné riadenie prietoku": {
+        "en": "Intelligent Flow Control",
+        "de": "Intelligente Durchflussregelung",
+        "hu": "Intelligens áramlásvezérlés"
+    },
+    "Monitoring zanesenia": {
+        "en": "Clogging Monitoring",
+        "de": "Überwachung der Verstopfung",
+        "hu": "Eltömődés figyelése"
+    },
+    "TIGEMMA filtračné systémy": {
+        "en": "TIGEMMA Filtration Systems",
+        "de": "TIGEMMA Filtersysteme",
+        "hu": "TIGEMMA szűrőrendszerek"
+    },
+    "Robustné modulárne filtre pre odsávacie stoly a centrálne potrubné siete s vysokou životnosťou kaziet. České riešenia s kvalitným servisom.": {
+        "en": "Robust modular filters for extraction tables and central piping networks with long cartridge life. Czech solutions with quality service.",
+        "de": "Robuste modulare Filter für Absaugtische und zentrale Rohrleitungsnetze mit langer Patronenlebensdauer. Tschechische Lösungen mit Qualitätsservice.",
+        "hu": "Robusztus moduláris szűrők elszívó asztalokhoz és központi csőhálózatokhoz hosszú patron élettartammal. Cseh megoldások minőségi szervizzel."
+    },
+    "ERBOS - Profesionálne laserové technológie | Fiber lasery, plazmové rezanie": {
+        "en": "ERBOS - Professional Laser Technologies | Fiber Lasers, Plasma Cutting",
+        "de": "ERBOS - Professionelle Lasertechnologien | Faserlaser, Plasmaschneiden",
+        "hu": "ERBOS - Professzionális lézertechnológiák | Száloptikás lézerek, plazmavágás"
+    },
+    "ERBOS ponúka profesionálne laserové a plazmové technológie pre delenie materiálov. Viac ako 15 rokov skúseností. Fiber lasery, laserové zváranie, páliace stroje, technická podpora a servis.": {
+        "en": "ERBOS offers professional laser and plasma technologies for material division. More than 15 years of experience. Fiber lasers, laser welding, cutting machines, technical support, and service.",
+        "de": "ERBOS bietet professionelle Laser- und Plasmatechnologien zur Materialtrennung. Mehr als 15 Jahre Erfahrung. Faserlaser, Laserschweißen, Schneidemaschinen, technischer Support und Service.",
+        "hu": "Az ERBOS professzionális lézer- és plazmatechnológiákat kínál anyagfelosztáshoz. Több mint 15 éves tapasztalat. Száloptikás lézerek, lézerhegesztés, vágógépek, műszaki támogatás és szerviz."
+    },
+    "Profesionálne laserové technológie": {
+        "en": "Professional Laser Technologies",
+        "de": "Professionelle Lasertechnologien",
+        "hu": "Professzionális lézertechnológiák"
+    },
+    "Viac ako 15 rokov skúseností s laserovými a plazmovými technológiami pre delenie materiálov. Profesionálne zaškolenie, servis a technická podpora pre všetkých našich zákazníkov.": {
+        "en": "More than 15 years of experience with laser and plasma technologies for material division. Professional training, service, and technical support for all our customers.",
+        "de": "Mehr als 15 Jahre Erfahrung mit Laser- und Plasmatechnologien zur Materialtrennung. Professionelle Schulung, Service und technischer Support für alle unsere Kunden.",
+        "hu": "Több mint 15 éves tapasztalat a lézer- és plazmatechnológiák terén az anyagfelosztáshoz. Professzionális képzés, szerviz és műszaki támogatás minden ügyfelünk számára."
+    },
+    "Naše produkty": {
+        "en": "Our Products",
+        "de": "Unsere Produkte",
+        "hu": "Termékeink"
+    },
+    "Kontaktujte nás": {
+        "en": "Contact Us",
+        "de": "Kontaktieren Sie uns",
+        "hu": "Lépjen kapcsolatba velünk"
+    },
+    "Profesionálne laserové zariadenia": {
+        "en": "Professional Laser Equipment",
+        "de": "Professionelle Laserausrüstung",
+        "hu": "Professzionális lézerberendezések"
+    },
+    "Ponúkame široký sortiment laserových technológií od rezacích laserov až po bezpečnostné pracoviská": {
+        "en": "We offer a wide range of laser technologies from cutting lasers to safety workstations",
+        "de": "Wir bieten eine breite Palette an Lasertechnologien von Schneidlasern bis hin zu Sicherheitsarbeitsplätzen",
+        "hu": "Lézertechnológiák széles választékát kínáljuk a vágólézerektől a biztonsági munkaállomásokig"
+    },
+    "Profesionálne rezacie lasery": {
+        "en": "Professional Cutting Lasers",
+        "de": "Professionelle Schneidlaser",
+        "hu": "Professzionális vágólézerek"
+    },
+    "Séria vysokovýkonných fiber laserov na rezanie plechov, rúr a profilov s výkonnými lineárnymi motormi.": {
+        "en": "Series of high-performance fiber lasers for cutting sheets, tubes, and profiles with powerful linear motors.",
+        "de": "Serie von Hochleistungs-Faserlasern zum Schneiden von Blechen, Rohren und Profilen mit leistungsstarken Linearmotoren.",
+        "hu": "Nagy teljesítményű száloptikás lézerek sorozata lemezek, csövek és profilok vágásához nagy teljesítményű lineáris motorokkal."
+    },
+    "Lineárne motory pre vysokú presnosť": {
+        "en": "Linear motors for high precision",
+        "de": "Linearmotoren für hohe Präzision",
+        "hu": "Lineáris motorok a nagy pontosságért"
+    },
+    "Akcelerácia až 2,5G": {
+        "en": "Acceleration up to 2.5G",
+        "de": "Beschleunigung bis zu 2,5G",
+        "hu": "Akár 2,5G gyorsulás"
+    },
+    "Rezanie až do 70mm hrúbky": {
+        "en": "Cutting up to 70mm thickness",
+        "de": "Schneiden bis zu 70mm Dicke",
+        "hu": "Vágás akár 70mm vastagságig"
+    },
+    "Viac info": {
+        "en": "More Info",
+        "de": "Mehr Info",
+        "hu": "További információ"
+    },
+    "Profesionálne laserové zváračky": {
+        "en": "Professional Laser Welders",
+        "de": "Professionelle Laserschweißgeräte",
+        "hu": "Professzionális lézerhegesztők"
+    },
+    "S tromi funkciami zvárania, čistenia a rezania na splnenie rôznych potrieb spracovania.": {
+        "en": "With three functions of welding, cleaning, and cutting to meet various processing needs.",
+        "de": "Mit drei Funktionen Schweißen, Reinigen und Schneiden, um verschiedene Verarbeitungsanforderungen zu erfüllen.",
+        "hu": "Három funkcióval: hegesztés, tisztítás és vágás, hogy megfeleljen a különféle feldolgozási igényeknek."
+    },
+    "3 v 1: zváranie, čistenie, rezanie": {
+        "en": "3 in 1: welding, cleaning, cutting",
+        "de": "3 in 1: Schweißen, Reinigen, Schneiden",
+        "hu": "3 az 1-ben: hegesztés, tisztítás, vágás"
+    },
+    "Šírka čistenia až 120 mm": {
+        "en": "Cleaning width up to 120 mm",
+        "de": "Reinigungsbreite bis zu 120 mm",
+        "hu": "Tisztítási szélesség akár 120 mm"
+    },
+    "Ovládanie parametrov na hlave": {
+        "en": "Parameter control on the head",
+        "de": "Parametersteuerung am Kopf",
+        "hu": "Paramétervezérlés a fejen"
+    },
+    "Pulzné laserové čistenie": {
+        "en": "Pulsed Laser Cleaning",
+        "de": "Gepulste Laserreinigung",
+        "hu": "Impulzus lézeres tisztítás"
+    },
+    "Zelené a energeticky úsporné. Schopné čistiť citlivé materiály bez ich poškodenia.": {
+        "en": "Green and energy efficient. Capable of cleaning sensitive materials without damaging them.",
+        "de": "Grün und energieeffizient. In der Lage, empfindliche Materialien zu reinigen, ohne sie zu beschädigen.",
+        "hu": "Zöld és energiahatékony. Képes érzékeny anyagok tisztítására azok károsodása nélkül."
+    },
+    "Ekologické čistenie bez chemikálií": {
+        "en": "Ecological cleaning without chemicals",
+        "de": "Ökologische Reinigung ohne Chemikalien",
+        "hu": "Ökológiai tisztítás vegyszerek nélkül"
+    },
+    "Čistenie jemných medzier a zvarov": {
+        "en": "Cleaning of fine gaps and welds",
+        "de": "Reinigung von feinen Spalten und Schweißnähten",
+        "hu": "Finom rések és hegesztési varratok tisztítása"
+    },
+    "Bez poškodenia materiálu": {
+        "en": "No material damage",
+        "de": "Keine Materialbeschädigung",
+        "hu": "Nincs anyagkárosodás"
+    },
+    "Laserové bezpečnostné pracoviská": {
+        "en": "Laser Safety Workstations",
+        "de": "Laser-Sicherheitsarbeitsplätze",
+        "hu": "Lézerbiztonsági munkaállomások"
+    },
+    "Pre laserové aplikácie s vlnovou dĺžkou od 940 do 1400 nm - kompletné riešenie.": {
+        "en": "For laser applications with wavelengths from 940 to 1400 nm - complete solution.",
+        "de": "Für Laseranwendungen mit Wellenlängen von 940 bis 1400 nm - Komplettlösung.",
+        "hu": "940 és 1400 nm közötti hullámhosszú lézeres alkalmazásokhoz - teljes körű megoldás."
+    },
+    "Kompletná ochrana pracovníkov": {
+        "en": "Complete worker protection",
+        "de": "Vollständiger Arbeitnehmerschutz",
+        "hu": "Teljes munkavállalói védelem"
+    },
+    "Certifikované OOP": {
+        "en": "Certified PPE",
+        "de": "Zertifizierte PSA",
+        "hu": "Tanúsított egyéni védőeszközök"
+    },
+    "Profesionálne zaškolenie": {
+        "en": "Professional Training",
+        "de": "Professionelle Schulung",
+        "hu": "Professzionális képzés"
+    },
+    "Prečo si vybrať nás": {
+        "en": "Why Choose Us",
+        "de": "Warum uns wählen",
+        "hu": "Miért válasszon minket"
+    },
+    "Vaše výhody s ERBOS": {
+        "en": "Your Benefits with ERBOS",
+        "de": "Ihre Vorteile mit ERBOS",
+        "hu": "Az Ön előnyei az ERBOS-szal"
+    },
+    "15+ rokov skúseností": {
+        "en": "15+ Years of Experience",
+        "de": "15+ Jahre Erfahrung",
+        "hu": "15+ év tapasztalat"
+    },
+    "Dlhoročné know-how v oblasti laserových technológií": {
+        "en": "Long-term know-how in the field of laser technologies",
+        "de": "Langjähriges Know-how im Bereich Lasertechnologien",
+        "hu": "Hosszú távú know-how a lézertechnológiák területén"
+    },
+    "Technická podpora": {
+        "en": "Technical Support",
+        "de": "Technischer Support",
+        "hu": "Műszaki támogatás"
+    },
+    "Profesionálny servis a 24/7 technická asistencia": {
+        "en": "Professional service and 24/7 technical assistance",
+        "de": "Professioneller Service und 24/7 technische Unterstützung",
+        "hu": "Professzionális szerviz és 24/7 műszaki segítségnyújtás"
+    },
+    "Profesionálne školenia": {
+        "en": "Professional Training",
+        "de": "Professionelle Schulungen",
+        "hu": "Professzionális képzések"
+    },
+    "Komplexné zaškolenie pre váš tím a certifikácie": {
+        "en": "Comprehensive training for your team and certifications",
+        "de": "Umfassende Schulung für Ihr Team und Zertifizierungen",
+        "hu": "Átfogó képzés csapata számára és tanúsítványok"
+    },
+    "Špičková kvalita": {
+        "en": "Top Quality",
+        "de": "Spitzenqualität",
+        "hu": "Csúcsminőség"
+    },
+    "Najnovšie technológie od overených výrobcov": {
+        "en": "Latest technologies from verified manufacturers",
+        "de": "Neueste Technologien von geprüften Herstellern",
+        "hu": "A legújabb technológiák ellenőrzött gyártóktól"
+    },
+    "Naši partneri": {
+        "en": "Our Partners",
+        "de": "Unsere Partner",
+        "hu": "Partnereink"
+    },
+    "Spolupracujeme s popredným svetovými výrobcami": {
+        "en": "We cooperate with leading world manufacturers",
+        "de": "Wir arbeiten mit führenden Weltherstellern zusammen",
+        "hu": "Együttműködünk a világ vezető gyártóival"
+    },
+    "Máte záujem o naše produkty?": {
+        "en": "Interested in our products?",
+        "de": "Interessiert an unseren Produkten?",
+        "hu": "Érdeklik termékeink?"
+    },
+    "Radi vám poskytneme podrobné informácie a individuálnu ponuku": {
+        "en": "We will be happy to provide you with detailed information and an individual offer",
+        "de": "Gerne stellen wir Ihnen detaillierte Informationen und ein individuelles Angebot zur Verfügung",
+        "hu": "Szívesen nyújtunk részletes információkat és egyedi ajánlatot"
+    },
+    "Telefón": {
+        "en": "Phone",
+        "de": "Telefon",
+        "hu": "Telefon"
+    },
+    "Email": {
+        "en": "Email",
+        "de": "E-Mail",
+        "hu": "E-mail"
+    },
+    "Profesionálne laserové a plazmové technológie s viac ako 15-ročnou tradíciou.": {
+        "en": "Professional laser and plasma technologies with more than 15 years of tradition.",
+        "de": "Professionelle Laser- und Plasmatechnologien mit mehr als 15 Jahren Tradition.",
+        "hu": "Professzionális lézer- és plazmatechnológiák több mint 15 éves hagyománnyal."
+    },
+    "Všetky produkty": {
+        "en": "All Products",
+        "de": "Alle Produkte",
+        "hu": "Minden termék"
+    },
+    "Spoločnosť": {
+        "en": "Company",
+        "de": "Unternehmen",
+        "hu": "Cég"
+    },
+    "Sledujte nás": {
+        "en": "Follow Us",
+        "de": "Folgen Sie uns",
+        "hu": "Kövessen minket"
+    },
+    "Navrhujeme a inštalujeme filtračné riešenia pre laserové, plazmové aj autogénne rezanie": {
+        "en": "We design and install filtration solutions for laser, plasma, and oxy-fuel cutting",
+        "de": "Wir entwerfen und installieren Filtrationslösungen für Laser-, Plasma- und Autogenschneiden",
+        "hu": "Tervezünk és telepítünk szűrési megoldásokat lézeres, plazma és lángvágáshoz"
+    },
+    "KEMPER filtračné jednotky": {
+        "en": "KEMPER Filtration Units",
+        "de": "KEMPER Filtereinheiten",
+        "hu": "KEMPER szűrőegységek"
+    },
+    "Automatická regenerácia filtrov, snímače prietoku a inteligentné riadenie pre stredné a veľké prevádzky. Kompaktné i centrálne riešenia s vysokou účinnosťou.": {
+        "en": "Automatic filter regeneration, flow sensors, and intelligent control for medium and large operations. Compact and central solutions with high efficiency.",
+        "de": "Automatische Filterregeneration, Durchflusssensoren und intelligente Steuerung für mittlere und große Betriebe. Kompakte und zentrale Lösungen mit hoher Effizienz.",
+        "hu": "Automatikus szűrőregenerálás, áramlásérzékelők és intelligens vezérlés közepes és nagy üzemek számára. Kompakt és központi megoldások magas hatékonysággal."
+    },
+    "TIGEMMA filtračné systémy": {
+        "en": "TIGEMMA Filtration Systems",
+        "de": "TIGEMMA Filtrationssysteme",
+        "hu": "TIGEMMA szűrőrendszerek"
+    },
+    "Robustné modulárne filtre pre odsávacie stoly a centrálne potrubné siete s vysokou životnosťou kaziet. České riešenia s kvalitným servisom.": {
+        "en": "Robust modular filters for extraction tables and central piping networks with long cartridge life. Czech solutions with quality service.",
+        "de": "Robuste modulare Filter für Absaugtische und zentrale Rohrleitungsnetze mit langer Patronenlebensdauer. Tschechische Lösungen mit Qualitätsservice.",
+        "hu": "Robusztus moduláris szűrők elszívó asztalokhoz és központi csőhálózatokhoz hosszú patron élettartammal. Cseh megoldások minőségi szervizzel."
+    },
+    "KEMPER odsávacie stoly": {
+        "en": "KEMPER Extraction Tables",
+        "de": "KEMPER Absaugtische",
+        "hu": "KEMPER elszívó asztalok"
+    },
+    "TIGEMMA odsávacie stoly": {
+        "en": "TIGEMMA Extraction Tables",
+        "de": "TIGEMMA Absaugtische",
+        "hu": "TIGEMMA elszívó asztalok"
+    },
+    "Ľahká rada": {
+        "en": "Light Series",
+        "de": "Leichte Serie",
+        "hu": "Könnyű sorozat"
+    },
+    "Pre menšie prevádzky": {
+        "en": "For smaller operations",
+        "de": "Für kleinere Betriebe",
+        "hu": "Kisebb üzemek számára"
+    },
+    "Stredná rada": {
+        "en": "Medium Series",
+        "de": "Mittlere Serie",
+        "hu": "Közepes sorozat"
+    },
+    "Univerzálne nasadenie": {
+        "en": "Universal application",
+        "de": "Universeller Einsatz",
+        "hu": "Univerzális alkalmazás"
+    },
+    "Ťažká rada": {
+        "en": "Heavy Series",
+        "de": "Schwere Serie",
+        "hu": "Nehéz sorozat"
+    },
+    "Pre intenzívnu prevádzku": {
+        "en": "For intensive operation",
+        "de": "Für intensiven Betrieb",
+        "hu": "Intenzív működéshez"
+    },
+    "Komplexné služby": {
+        "en": "Comprehensive Services",
+        "de": "Umfassende Dienstleistungen",
+        "hu": "Átfogó szolgáltatások"
+    },
+    "Projektovanie": {
+        "en": "Design",
+        "de": "Projektierung",
+        "hu": "Tervezés"
+    },
+    "Návrh optimálneho riešenia podľa priestorových podmienok a výrobných potrieb.": {
+        "en": "Design of the optimal solution according to spatial conditions and production needs.",
+        "de": "Entwurf der optimalen Lösung entsprechend den räumlichen Gegebenheiten und Produktionsanforderungen.",
+        "hu": "Az optimális megoldás tervezése a térbeli feltételek és a termelési igények szerint."
+    },
+    "Inštalácia": {
+        "en": "Installation",
+        "de": "Installation",
+        "hu": "Telepítés"
+    },
+    "Profesionálna montáž a uvedenie systému do prevádzky s komplexnou dokumentáciou.": {
+        "en": "Professional assembly and commissioning of the system with comprehensive documentation.",
+        "de": "Professionelle Montage und Inbetriebnahme des Systems mit umfassender Dokumentation.",
+        "hu": "A rendszer professzionális összeszerelése és üzembe helyezése átfogó dokumentációval."
+    },
+    "Servis": {
+        "en": "Service",
+        "de": "Service",
+        "hu": "Szerviz"
+    },
+    "Pravidelná údržba, monitoring zanesenia a výmena filtračných kaziet.": {
+        "en": "Regular maintenance, clogging monitoring, and replacement of filter cartridges.",
+        "de": "Regelmäßige Wartung, Überwachung der Verstopfung und Austausch der Filterpatronen.",
+        "hu": "Rendszeres karbantartás, eltömődés figyelése és szűrőpatronok cseréje."
+    },
+    "Laserové Zváranie a Čistenie": {
+        "en": "Laser Welding and Cleaning",
+        "de": "Laserschweißen und Reinigen",
+        "hu": "Lézerhegesztés és tisztítás"
+    },
+    "1500W - 3000W": {
+        "en": "1500W - 3000W",
+        "de": "1500W - 3000W",
+        "hu": "1500W - 3000W"
+    },
+    "Profesionálne laserové zváračky a čistiace systémy": {
+        "en": "Professional laser welders and cleaning systems",
+        "de": "Professionelle Laserschweißgeräte und Reinigungssysteme",
+        "hu": "Professzionális lézerhegesztők és tisztítórendszerek"
+    },
+    "Bezpečnostné upozornenie": {
+        "en": "Safety Warning",
+        "de": "Sicherheitswarnung",
+        "hu": "Biztonsági figyelmeztetés"
+    },
+    "Vždy používajte certifikovanú ochranu!": {
+        "en": "Always use certified protection!",
+        "de": "Verwenden Sie immer zertifizierten Schutz!",
+        "hu": "Mindig használjon tanúsított védelmet!"
+    },
+    "Používajte ochrannú zváraciu kuklu s DIN sklom a certifikovaným sklom proti laseru": {
+        "en": "Use a protective welding helmet with DIN glass and certified anti-laser glass",
+        "de": "Verwenden Sie einen Schutzschweißhelm mit DIN-Glas und zertifiziertem Laserschutzglas",
+        "hu": "Használjon védőhegesztő sisakot DIN üveggel és tanúsított lézer elleni üveggel"
+    },
+    "Nikdy sa nepozerajte priamo do laserovej hlavy": {
+        "en": "Never look directly into the laser head",
+        "de": "Schauen Sie niemals direkt in den Laserkopf",
+        "hu": "Soha ne nézzen közvetlenül a lézerfejbe"
+    },
+    "Nevystavujte sa priamemu ani rozptýlenému laserovému lúču": {
+        "en": "Do not expose yourself to direct or scattered laser beams",
+        "de": "Setzen Sie sich keinem direkten oder gestreuten Laserstrahl aus",
+        "hu": "Ne tegye ki magát közvetlen vagy szórt lézersugárnak"
+    },
+    "Pozor na vysokoreflexné materiály (hliník, leštené nereze)": {
+        "en": "Beware of highly reflective materials (aluminum, polished stainless steel)",
+        "de": "Vorsicht bei stark reflektierenden Materialien (Aluminium, polierter Edelstahl)",
+        "hu": "Vigyázzon a erősen fényvisszaverő anyagokra (alumínium, polírozott rozsdamentes acél)"
+    },
+    "Naše produkty": {
+        "en": "Our Products",
+        "de": "Unsere Produkte",
+        "hu": "Termékeink"
+    },
+    "Profesionálne zariadenia pre zváranie a čistenie": {
+        "en": "Professional equipment for welding and cleaning",
+        "de": "Professionelle Ausrüstung zum Schweißen und Reinigen",
+        "hu": "Professzionális berendezések hegesztéshez és tisztításhoz"
+    },
+    "Bodor Welder 1500W Pro": {
+        "en": "Bodor Welder 1500W Pro",
+        "de": "Bodor Welder 1500W Pro",
+        "hu": "Bodor Welder 1500W Pro"
+    },
+    "Spoľahlivá v extrémnych mrazoch a horúčavách. Schopná udržiavať stabilný výkon pri teplotách od -20°C do 60°C aj pri relatívnej vlhkosti až 90%.": {
+        "en": "Reliable in extreme cold and heat. Capable of maintaining stable performance at temperatures from -20°C to 60°C even at relative humidity up to 90%.",
+        "de": "Zuverlässig bei extremer Kälte und Hitze. Fähig, stabile Leistung bei Temperaturen von -20°C bis 60°C auch bei relativer Luftfeuchtigkeit bis zu 90% aufrechtzuerhalten.",
+        "hu": "Megbízható extrém hidegben és melegben. Képes stabil teljesítményt fenntartani -20°C és 60°C közötti hőmérsékleten, akár 90%-os relatív páratartalom mellett is."
+    },
+    "Odolnosť voči počasiu": {
+        "en": "Weather resistance",
+        "de": "Wetterbeständigkeit",
+        "hu": "Időjárásállóság"
+    },
+    "Stabilný výkon": {
+        "en": "Stable performance",
+        "de": "Stabile Leistung",
+        "hu": "Stabil teljesítmény"
+    },
+    "GWEIKE Laserová zváračka 3 IN 1": {
+        "en": "GWEIKE Laser Welder 3 IN 1",
+        "de": "GWEIKE Laserschweißgerät 3 IN 1",
+        "hu": "GWEIKE Lézerhegesztő 3 AZ 1-BEN"
+    },
+    "S tromi funkciami zvárania, čistenia a rezania na splnenie rôznych potrieb spracovania. Šírka čistenia až 120 mm zvyšuje účinnosť čistenia.": {
+        "en": "With three functions of welding, cleaning, and cutting to meet various processing needs. Cleaning width up to 120 mm increases cleaning efficiency.",
+        "de": "Mit drei Funktionen Schweißen, Reinigen und Schneiden, um verschiedene Verarbeitungsanforderungen zu erfüllen. Reinigungsbreite bis zu 120 mm erhöht die Reinigungseffizienz.",
+        "hu": "Három funkcióval: hegesztés, tisztítás és vágás, hogy megfeleljen a különféle feldolgozási igényeknek. A tisztítási szélesség akár 120 mm, ami növeli a tisztítási hatékonyságot."
+    },
+    "22 skupín parametrov": {
+        "en": "22 parameter groups",
+        "de": "22 Parametergruppen",
+        "hu": "22 paramétercsoport"
+    },
+    "Pulzné laserové čistenie": {
+        "en": "Pulsed Laser Cleaning",
+        "de": "Gepulste Laserreinigung",
+        "hu": "Impulzus lézeres tisztítás"
+    },
+    "Zelené a energeticky úsporné. Schopné čistiť citlivé materiály ako hliník, uhlík, nehrdzavejúcu oceľ bez ich poškodenia. Vyčistí aj jemné medzery a zvary.": {
+        "en": "Green and energy efficient. Capable of cleaning sensitive materials such as aluminum, carbon, stainless steel without damaging them. Cleans even fine gaps and welds.",
+        "de": "Grün und energieeffizient. Fähig, empfindliche Materialien wie Aluminium, Kohlenstoff, Edelstahl ohne Beschädigung zu reinigen. Reinigt auch feine Spalten und Schweißnähte.",
+        "hu": "Zöld és energiahatékony. Képes érzékeny anyagok, például alumínium, szén, rozsdamentes acél tisztítására azok károsítása nélkül. Megtisztítja a finom réseket és hegesztéseket is."
+    },
+    "Ekologické čistenie": {
+        "en": "Ecological cleaning",
+        "de": "Ökologische Reinigung",
+        "hu": "Ökológiai tisztítás"
+    },
+    "Bez poškodenia materiálu": {
+        "en": "No material damage",
+        "de": "Keine Materialbeschädigung",
+        "hu": "Nincs anyagkárosodás"
+    },
+    "Naše výhody": {
+        "en": "Our Advantages",
+        "de": "Unsere Vorteile",
+        "hu": "Előnyeink"
+    },
+    "Dlhoročné skúsenosti s laserovými technológiami": {
+        "en": "Years of experience with laser technologies",
+        "de": "Jahrelange Erfahrung mit Lasertechnologien",
+        "hu": "Több éves tapasztalat a lézertechnológiák terén"
+    },
+    "Certifikované OPP pre laserové zváranie": {
+        "en": "Certified PPE for laser welding",
+        "de": "Zertifizierte PSA für Laserschweißen",
+        "hu": "Tanúsított egyéni védőeszközök lézerhegesztéshez"
+    },
+    "Profesionálne poradenstvo": {
+        "en": "Professional consulting",
+        "de": "Professionelle Beratung",
+        "hu": "Professzionális tanácsadás"
+    },
+    "Technická podpora pre zákazníkov": {
+        "en": "Technical support for customers",
+        "de": "Technischer Support für Kunden",
+        "hu": "Műszaki támogatás ügyfeleknek"
+    },
+    "Náhradné diely skladom": {
+        "en": "Spare parts in stock",
+        "de": "Ersatzteile auf Lager",
+        "hu": "Alkatrészek raktáron"
+    },
+    "Vlastné servisné stredisko": {
+        "en": "Own service center",
+        "de": "Eigenes Servicezentrum",
+        "hu": "Saját szervizközpont"
+    },
+    "Vyškolení servisní technici": {
+        "en": "Trained service technicians",
+        "de": "Geschulte Servicetechniker",
+        "hu": "Képzett szerviztechnikusok"
+    },
+    "Spolupráca so zváračskými školami": {
+        "en": "Cooperation with welding schools",
+        "de": "Zusammenarbeit mit Schweißschulen",
+        "hu": "Együttműködés hegesztőiskolákkal"
+    },
+    "Máte záujem o laserové zváranie?": {
+        "en": "Are you interested in laser welding?",
+        "de": "Interessieren Sie sich für Laserschweißen?",
+        "hu": "Érdekli a lézerhegesztés?"
+    },
+    "Kontaktujte nás pre podrobné informácie a cenovú ponuku": {
+        "en": "Contact us for detailed information and a price quote",
+        "de": "Kontaktieren Sie uns für detaillierte Informationen und ein Preisangebot",
+        "hu": "Lépjen kapcsolatba velünk részletes információkért és árajánlatért"
+    },
+    "plazmové rezanie": {
+        "en": "plasma cutting",
+        "de": "Plasmaschneiden",
+        "hu": "plazmavágás"
+    },
+    "rezanie": {
+        "en": "cutting",
+        "de": "Schneiden",
+        "hu": "vágás"
+    },
+    "Všetky práva vyhradené.": {
+        "en": "All rights reserved.",
+        "de": "Alle Rechte vorbehalten.",
+        "hu": "Minden jog fenntartva."
+    },
+    "Paliaci stroj s vynikajúcimi dynamickými vlastnosťami, určený pre najnáročnejšie operácie. Určený na spracovanie veľmi veľkých formátov kovových plechov s autogénnou a plazmovou technológiou, vrátane automatického úkosového rezania.": {
+        "en": "Cutting machine with excellent dynamic properties, designed for the most demanding operations. Intended for processing very large metal sheet formats with oxy-fuel and plasma technology, including automatic bevel cutting.",
+        "de": "Schneidemaschine mit hervorragenden dynamischen Eigenschaften, konzipiert für anspruchsvollste Operationen. Bestimmt für die Bearbeitung sehr großer Blechformate mit Autogen- und Plasmatechnologie, einschließlich automatischem Fasenschneiden.",
+        "hu": "Kiváló dinamikai tulajdonságokkal rendelkező vágógép, a legigényesebb műveletekhez tervezve. Nagyon nagy fémlemez formátumok feldolgozására szolgál láng- és plazmatechnológiával, beleértve az automatikus ferdevágást is."
+    },
+    "Profesionálne laserové a plazmové technológie": {
+        "en": "Professional Laser and Plasma Technologies",
+        "de": "Professionelle Laser- und Plasmatechnologien",
+        "hu": "Professzionális lézer- és plazmatechnológiák"
+    },
+    "Dostupné modely": {
+        "en": "Available Models",
+        "de": "Verfügbare Modelle",
+        "hu": "Elérhető modellek"
+    },
+    "Pracovná plocha": {
+        "en": "Working Area",
+        "de": "Arbeitsbereich",
+        "hu": "Munkaterület"
+    },
+    "Presná korekcia tlaku": {
+        "en": "Precise pressure correction",
+        "de": "Präzise Druckkorrektur",
+        "hu": "Precíz nyomáskorrekció"
+    },
+    "Inteligentné prepichovanie": {
+        "en": "Intelligent piercing",
+        "de": "Intelligentes Einstechen",
+        "hu": "Intelligens átszúrás"
+    },
+    "Prepal bez strusky": {
+        "en": "Slag-free piercing",
+        "de": "Schlackenfreies Einstechen",
+        "hu": "Salakmentes átszúrás"
+    },
+    "Automatické sledovanie procesu": {
+        "en": "Automatic process monitoring",
+        "de": "Automatische Prozessüberwachung",
+        "hu": "Automatikus folyamatfigyelés"
+    },
+    "Neviditeľné mikrospoje": {
+        "en": "Invisible micro-joints",
+        "de": "Unsichtbare Mikroverbindungen",
+        "hu": "Láthatatlan mikrokötések"
+    },
+    "Professional zaškolenie, Service a Technical Support.": {
+        "en": "Professional training, Service and Technical Support.",
+        "de": "Professionelle Schulung, Service und technischer Support.",
+        "hu": "Professzionális képzés, szerviz és műszaki támogatás."
+    },
+    "laserové čistenie": {
+        "en": "laser cleaning",
+        "de": "Laserreinigung",
+        "hu": "lézeres tisztítás"
+    },
+    "laserové cutting": {
+        "en": "laser cutting",
+        "de": "Laserschneiden",
+        "hu": "lézervágás"
+    },
+    "Professional zaškolenie": {
+        "en": "Professional training",
+        "de": "Professionelle Schulung",
+        "hu": "Professzionális képzés"
+    },
+    "Company ERBOS sa špecializuje na dodávky a Service moderných laserových rezacích systémov, plazmových zdrojov a technológií pre priemyselné spracovanie kovov.": {
+        "en": "Company ERBOS specializes in the supply and Service of modern laser cutting systems, plasma sources and technologies for industrial metal processing.",
+        "de": "Die Firma ERBOS ist spezialisiert auf die Lieferung und den Service moderner Laserschneidsysteme, Plasmaquellen und Technologien für die industrielle Metallbearbeitung.",
+        "hu": "Az ERBOS vállalat modern lézervágó rendszerek, plazmaforrások és ipari fémfeldolgozási technológiák szállítására és szervizelésére specializálódott."
+    },
+    "S viac ako 15-ročnými skúsenosťami na trhu poskytujeme komplexné riešenia od projektovania, cez dodávku a inštaláciu až po pravidelný Service a technickú podporu.": {
+        "en": "With more than 15 years of experience in the market, we provide comprehensive solutions from design, through supply and installation to regular Service and technical support.",
+        "de": "Mit mehr als 15 Jahren Erfahrung auf dem Markt bieten wir umfassende Lösungen von der Planung über die Lieferung und Installation bis hin zum regelmäßigen Service und technischen Support.",
+        "hu": "Több mint 15 éves piaci tapasztalattal átfogó megoldásokat kínálunk a tervezéstől a szállításon és telepítésen át a rendszeres szervizig és műszaki támogatásig."
+    },
+    "\"Našou prioritou je spokojnosť zákazníka a dlhodobá spolupráca založená na kvalite, odbornosti a spoľahlivosti.\"": {
+        "en": "\"Our priority is customer satisfaction and long-term cooperation based on quality, expertise and reliability.\"",
+        "de": "\"Unsere Priorität ist die Kundenzufriedenheit und eine langfristige Zusammenarbeit, die auf Qualität, Fachwissen und Zuverlässigkeit basiert.\"",
+        "hu": "\"Prioritásunk az ügyfél elégedettsége és a minőségen, szakértelmen és megbízhatóságon alapuló hosszú távú együttműködés.\""
+    },
+    "Naši Partners": {
+        "en": "Our Partners",
+        "de": "Unsere Partner",
+        "hu": "Partnereink"
+    },
+    "Paliace Stroje": {
+        "en": "Cutting Machines",
+        "de": "Schneidemaschinen",
+        "hu": "Vágógépek"
+    },
+    "Dodávka Spotrebných Dielov": {
+        "en": "Supply of Consumables",
+        "de": "Lieferung von Verbrauchsmaterialien",
+        "hu": "Fogyóeszközök szállítása"
+    },
+    "Ponúkame široký sortiment spotrebných dielov pre laserové a Plasma cutting. Rýchle dodanie a výhodné ceny.": {
+        "en": "We offer a wide range of consumables for laser and Plasma cutting. Fast delivery and favorable prices.",
+        "de": "Wir bieten ein breites Sortiment an Verbrauchsmaterialien für Laser- und Plasmaschneiden. Schnelle Lieferung und günstige Preise.",
+        "hu": "Széles választékot kínálunk lézer- és plazmavágáshoz szükséges fogyóeszközökből. Gyors szállítás és kedvező árak."
+    },
+    "Certifikované OPP pre Laser Welding": {
+        "en": "Certified PPE for Laser Welding",
+        "de": "Zertifizierte PSA für Laserschweißen",
+        "hu": "Tanúsított egyéni védőeszközök lézerhegesztéshez"
+    },
+    "Professional poradenstvo": {
+        "en": "Professional consulting",
+        "de": "Professionelle Beratung",
+        "hu": "Professzionális tanácsadás"
+    },
+    "Presné a trvalé značenie materiálov pomocou lasera": {
+        "en": "Precise and permanent marking of materials using laser",
+        "de": "Präzise und dauerhafte Materialkennzeichnung mittels Laser",
+        "hu": "Anyagok precíz és tartós jelölése lézerrel"
+    },
+    "Presné a trvalé značenie materiálov": {
+        "en": "Precise and permanent marking of materials",
+        "de": "Präzise und dauerhafte Materialkennzeichnung",
+        "hu": "Anyagok precíz és tartós jelölése"
+    },
+    "Laserové značenie je moderná technológia, ktorá umožňuje vytvárať trvalé, čitateľné a vysoko kvalitné značky na širokom spektre materiálov.": {
+        "en": "Laser Marking is a modern technology that allows creating permanent, readable and high-quality marks on a wide range of materials.",
+        "de": "Laserbeschriftung ist eine moderne Technologie, die es ermöglicht, dauerhafte, lesbare und hochwertige Markierungen auf einer Vielzahl von Materialien zu erstellen.",
+        "hu": "A lézeres jelölés egy modern technológia, amely lehetővé teszi tartós, olvasható és kiváló minőségű jelölések létrehozását az anyagok széles skáláján."
+    },
+    "Výhody laserového značenia": {
+        "en": "Advantages of laser marking",
+        "de": "Vorteile der Laserbeschriftung",
+        "hu": "A lézeres jelölés előnyei"
+    },
+    "Trvalé a odolné - značky sú permanentné a odolné voči obrusu": {
+        "en": "Permanent and durable - marks are permanent and resistant to abrasion",
+        "de": "Dauerhaft und beständig - Markierungen sind permanent und abriebfest",
+        "hu": "Tartós és ellenálló - a jelölések tartósak és kopásállóak"
+    },
+    "Rýchle a efektívne - automatizovaný proces": {
+        "en": "Fast and efficient - automated process",
+        "de": "Schnell und effizient - automatisierter Prozess",
+        "hu": "Gyors és hatékony - automatizált folyamat"
+    },
+    "Bezkontaktná metóda - bez poškodenia materiálu": {
+        "en": "Non-contact method - No material damage",
+        "de": "Berührungslose Methode - Keine Materialbeschädigung",
+        "hu": "Érintésmentes módszer - Nincs anyagkárosodás"
+    },
+    "Aplikácie": {
+        "en": "Applications",
+        "de": "Anwendungen",
+        "hu": "Alkalmazások"
+    },
+    "Automobilový priemysel - VIN kódy": {
+        "en": "Automotive industry - VIN codes",
+        "de": "Automobilindustrie - VIN-Codes",
+        "hu": "Autóipar - VIN kódok"
+    },
+    "Strojárstvo - sériové čísla": {
+        "en": "Engineering - serial numbers",
+        "de": "Maschinenbau - Seriennummern",
+        "hu": "Gépészet - sorozatszámok"
+    },
+    "Elektronika - PCB, komponenty": {
+        "en": "Electronics - PCB, components",
+        "de": "Elektronik - PCB, Komponenten",
+        "hu": "Elektronika - PCB, alkatrészek"
+    },
+    "Medicínske prístroje": {
+        "en": "Medical devices",
+        "de": "Medizinische Geräte",
+        "hu": "Orvosi eszközök"
+    },
+    "Letecký priemysel": {
+        "en": "Aerospace industry",
+        "de": "Luft- und Raumfahrtindustrie",
+        "hu": "Repülőgépipar"
+    },
+    "Spotrebný tovar": {
+        "en": "Consumer goods",
+        "de": "Konsumgüter",
+        "hu": "Fogyasztási cikkek"
+    },
+    "Bezpečnostné riešenia": {
+        "en": "Safety solutions",
+        "de": "Sicherheitslösungen",
+        "hu": "Biztonsági megoldások"
+    },
+    "Certifikované bezpečnostné Laser Workstations podľa normy EN 60825-1:2015": {
+        "en": "Certified safety Laser Workstations according to EN 60825-1:2015",
+        "de": "Zertifizierte Sicherheits-Laserarbeitsplätze nach EN 60825-1:2015",
+        "hu": "Tanúsított biztonsági lézeres munkaállomások az EN 60825-1:2015 szabvány szerint"
+    },
+    "Modulárna koncepcia a jednoduchá Installation": {
+        "en": "Modular concept and simple Installation",
+        "de": "Modulares Konzept und einfache Installation",
+        "hu": "Moduláris koncepció és egyszerű telepítés"
+    },
+    "Ponúkame vám modulárne a prispôsobiteľné riešenie, kde si môžete vybrať jednotlivé časti, podľa toho ako si chcete vybudovať svoj vlastný pracovný priestor. Tento proces rešpektuje predpisy a zabezpečuje, aby priestory zodpovedali potrebám a špecifikám konkrétnej spoločnosti.": {
+        "en": "We offer you a modular and customizable solution where you can choose individual parts according to how you want to build your own workspace. This process respects regulations and ensures that the spaces correspond to the needs and specifics of the specific company.",
+        "de": "Wir bieten Ihnen eine modulare und anpassbare Lösung, bei der Sie einzelne Teile auswählen können, je nachdem, wie Sie Ihren eigenen Arbeitsbereich gestalten möchten. Dieser Prozess respektiert Vorschriften und stellt sicher, dass die Räume den Bedürfnissen und Besonderheiten des jeweiligen Unternehmens entsprechen.",
+        "hu": "Moduláris és testreszabható megoldást kínálunk, ahol kiválaszthatja az egyes részeket aszerint, hogyan szeretné felépíteni saját munkaterületét. Ez a folyamat tiszteletben tartja az előírásokat, és biztosítja, hogy a terek megfeleljenek az adott vállalat igényeinek és sajátosságainak."
+    },
+    "Aby sme zabezpečili bezpečnosť všetkých operátorov, zamest nancov, našim zákazníkom, zabezpečujeme uzavretý pracovný priestor so všetkými bezpečnostnými opatreniami.": {
+        "en": "To ensure the safety of all operators, employees, and our customers, we provide a closed workspace with all safety measures.",
+        "de": "Um die Sicherheit aller Bediener, Mitarbeiter und unserer Kunden zu gewährleisten, bieten wir einen geschlossenen Arbeitsbereich mit allen Sicherheitsmaßnahmen.",
+        "hu": "Minden kezelő, alkalmazott és ügyfelünk biztonságának érdekében zárt munkaterületet biztosítunk minden biztonsági intézkedéssel."
+    },
+    "Flexibilné riešenie": {
+        "en": "Flexible solution",
+        "de": "Flexible Lösung",
+        "hu": "Rugalmas megoldás"
+    },
+    "Modulárne panely umožňujú vytvoriť pracovisko presne podľa layoutu prevádzky vrátane prechodu materiálu, zásobníkov či manipulácie robotom.": {
+        "en": "Modular panels allow creating a workstation exactly according to the operation layout including material passage, magazines or robot manipulation.",
+        "de": "Modulare Paneele ermöglichen die Erstellung eines Arbeitsplatzes genau nach dem Betriebslayout, einschließlich Materialdurchgang, Magazinen oder Robotermanipulation.",
+        "hu": "A moduláris panelek lehetővé teszik a munkaállomás pontos kialakítását az üzem elrendezése szerint, beleértve az anyagátadást, a tárolókat vagy a robotmanipulációt."
+    },
+    "Bezpečné sendvičové panely": {
+        "en": "Safe sandwich panels",
+        "de": "Sichere Sandwichpaneele",
+        "hu": "Biztonságos szendvicspanelek"
+    },
+    "Špeciálne panely hrúbky 35 mm odolávajú laserovému lúču a chrá nia okolie pred rozptýleným žiarením aj pred postrekmi roztaveného kovu.": {
+        "en": "Special 35 mm thick panels withstand the laser beam and protect the surroundings from scattered radiation and molten metal splashes.",
+        "de": "Spezielle 35 mm dicke Paneele widerstehen dem Laserstrahl und schützen die Umgebung vor Streustrahlung und geschmolzenen Metallspritzern.",
+        "hu": "A speciális 35 mm vastag panelek ellenállnak a lézersugárnak, és védik a környezetet a szórt sugárzástól és az olvadékfröccsenéstől."
+    },
+    "Dvojkrídlové dvere": {
+        "en": "Double-wing doors",
+        "de": "Doppelflügeltüren",
+        "hu": "Kétszárnyú ajtók"
+    },
+    "Bezpečnostné dvere s hrúbkou 45 mm, pántmi z nerezu 316L a prierazom 1450×2140 mm. Lemovanie 3 mm plechom zvyšuje ochranu vstupu.": {
+        "en": "Safety doors with a thickness of 45 mm, 316L stainless steel hinges and a clear opening of 1450×2140 mm. 3 mm sheet metal edging increases entrance protection.",
+        "de": "Sicherheitstüren mit einer Dicke von 45 mm, Scharnieren aus Edelstahl 316L und einer lichten Öffnung von 1450×2140 mm. 3 mm Blecheinfassung erhöht den Eingangsschutz.",
+        "hu": "45 mm vastag biztonsági ajtók, 316L rozsdamentes acél zsanérokkal és 1450×2140 mm-es szabad nyílással. A 3 mm-es lemezszegély növeli a bejárat védelmét."
+    },
+    "Maximálna bezpečnosť": {
+        "en": "Maximum safety",
+        "de": "Maximale Sicherheit",
+        "hu": "Maximális biztonság"
+    },
+    "Dvere sú vybavené redundantnými spínačmi, ktoré okamžite vypnú laserový zdroj pri otvorení. Kabína spĺňa požiadavky harmonizovaných noriem a integruje komplexný balík bezpečnostných prvkov.": {
+        "en": "The doors are equipped with redundant switches that immediately switch off the laser source when opened. The cabin meets the requirements of harmonized standards and integrates a comprehensive package of safety features.",
+        "de": "Die Türen sind mit redundanten Schaltern ausgestattet, die die Laserquelle beim Öffnen sofort abschalten. Die Kabine erfüllt die Anforderungen harmonisierter Normen und integriert ein umfassendes Paket an Sicherheitsmerkmalen.",
+        "hu": "Az ajtók redundáns kapcsolókkal vannak felszerelve, amelyek nyitáskor azonnal kikapcsolják a lézerforrást. A kabin megfelel a harmonizált szabványok követelményeinek, és átfogó biztonsági funkciócsomagot integrál."
+    },
+    "Vnútorná a vonkajšia signalizácia pre obsluhu": {
+        "en": "Internal and external signaling for the operator",
+        "de": "Interne und externe Signalisierung für den Bediener",
+        "hu": "Belső és külső jelzés a kezelő számára"
+    },
+    "Signalizačná svetelná kontrolka stavu laseru": {
+        "en": "Laser status signal light",
+        "de": "Laserstatus-Signalleuchte",
+        "hu": "Lézerállapot-jelző lámpa"
+    },
+    "Automatické núdzové tlačidlo a reset po otvorení dverí": {
+        "en": "Automatic emergency button and reset after door opening",
+        "de": "Automatischer Not-Aus-Taster und Reset nach Türöffnung",
+        "hu": "Automatikus vészleállító gomb és visszaállítás ajtónyitás után"
+    },
+    "Bezpečnostné relé a dvojkanálové 2NC dverové senzory": {
+        "en": "Safety relays and dual-channel 2NC door sensors",
+        "de": "Sicherheitsrelais und zweikanalige 2NC-Türsensoren",
+        "hu": "Biztonsági relék és kétcsatornás 2NC ajtóérzékelők"
+    },
+    "Modulárna koncepcia a jednoduchá inštalácia": {
+        "en": "Modular concept and simple installation",
+        "de": "Modulares Konzept und einfache Installation",
+        "hu": "Moduláris koncepció és egyszerű telepítés"
+    },
+    "Certifikované bezpečnostné laserové pracoviská podľa normy EN 60825-1:2015": {
+        "en": "Certified safety Laser Workstations according to EN 60825-1:2015",
+        "de": "Zertifizierte Sicherheits-Laserarbeitsplätze nach EN 60825-1:2015",
+        "hu": "Tanúsított biztonsági lézeres munkaállomások az EN 60825-1:2015 szabvány szerint"
+    },
+    "Vysoká presnosť - umožňuje vytvárať jemné detaily a QR kódy": {
+        "en": "High Precision - allows creating fine details and QR codes",
+        "de": "Hohe Präzision - ermöglicht die Erstellung feiner Details und QR-Codes",
+        "hu": "Nagy pontosság - lehetővé teszi finom részletek és QR-kódok létrehozását"
+    }
+}
